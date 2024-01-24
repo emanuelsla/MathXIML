@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+pandas
+plotly
+streamlit
+dice-ml
+matplotlib
+wrapt-timeout-decorator
+joblib
+jupyterlab
+openpyxl

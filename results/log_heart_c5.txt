@@ -1,0 +1,8119 @@
+### settings ####
+experimental iterations: 5
+random seeds: [42, 420, 4200, 42000, 420000]
+data set: heart
+
+#### start experimental iteration 1 ####
+
+#### caipi iteration 1 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.8376623376623377
+fn rate: 0.37254901960784315
+precision: 0.4266666666666667
+recall: 0.6274509803921569
+accuracy: 0.3941368078175896
+
+correct ces positive class: 0.0 (n=78)
+correct ces negative class: 0.18181818181818182 (n=22)
+
+labeled size: 16
+unlabeled size: 717
+
+#### caipi iteration 2 ####
+
+Wrong (W)
+
+fp rate: 0.8701298701298701
+fn rate: 0.20261437908496732
+precision: 0.4765625
+recall: 0.7973856209150327
+accuracy: 0.46254071661237783
+
+correct ces positive class: 0.0 (n=89)
+correct ces negative class: 0.5454545454545454 (n=11)
+
+labeled size: 17
+unlabeled size: 716
+
+#### caipi iteration 3 ####
+
+Wrong (W)
+
+fp rate: 0.8831168831168831
+fn rate: 0.17647058823529413
+precision: 0.48091603053435117
+recall: 0.8235294117647058
+accuracy: 0.46905537459283386
+
+correct ces positive class: 0.01098901098901099 (n=91)
+correct ces negative class: 0.0 (n=9)
+
+labeled size: 18
+unlabeled size: 715
+
+#### caipi iteration 4 ####
+
+Wrong (W)
+
+fp rate: 0.8896103896103896
+fn rate: 0.1830065359477124
+precision: 0.4770992366412214
+recall: 0.8169934640522876
+accuracy: 0.46254071661237783
+
+correct ces positive class: 0.0 (n=88)
+correct ces negative class: 0.25 (n=12)
+
+labeled size: 19
+unlabeled size: 714
+
+#### caipi iteration 5 ####
+
+Wrong (W)
+
+fp rate: 0.9155844155844156
+fn rate: 0.13725490196078433
+precision: 0.4835164835164835
+recall: 0.8627450980392157
+accuracy: 0.4723127035830619
+
+correct ces positive class: 0.022222222222222223 (n=90)
+correct ces negative class: 0.5 (n=10)
+
+labeled size: 20
+unlabeled size: 713
+
+#### caipi iteration 6 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.8896103896103896
+fn rate: 0.16339869281045752
+precision: 0.4830188679245283
+recall: 0.8366013071895425
+accuracy: 0.4723127035830619
+
+correct ces positive class: 0.011494252873563218 (n=87)
+correct ces negative class: 0.0 (n=13)
+
+labeled size: 26
+unlabeled size: 712
+
+#### caipi iteration 7 ####
+
+Wrong (W)
+
+fp rate: 0.8376623376623377
+fn rate: 0.1568627450980392
+precision: 0.5
+recall: 0.8431372549019608
+accuracy: 0.501628664495114
+
+correct ces positive class: 0.012195121951219513 (n=82)
+correct ces negative class: 0.05555555555555555 (n=18)
+
+labeled size: 27
+unlabeled size: 711
+
+#### caipi iteration 8 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.8766233766233766
+fn rate: 0.1568627450980392
+precision: 0.48863636363636365
+recall: 0.8431372549019608
+accuracy: 0.4820846905537459
+
+correct ces positive class: 0.011363636363636364 (n=88)
+correct ces negative class: 0.08333333333333333 (n=12)
+
+labeled size: 28
+unlabeled size: 710
+
+#### caipi iteration 9 ####
+
+Wrong (W)
+
+fp rate: 0.8506493506493507
+fn rate: 0.21568627450980393
+precision: 0.47808764940239046
+recall: 0.7843137254901961
+accuracy: 0.46579804560260585
+
+correct ces positive class: 0.024390243902439025 (n=82)
+correct ces negative class: 0.2777777777777778 (n=18)
+
+labeled size: 29
+unlabeled size: 709
+
+#### caipi iteration 10 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.8766233766233766
+fn rate: 0.19607843137254902
+precision: 0.47674418604651164
+recall: 0.803921568627451
+accuracy: 0.46254071661237783
+
+correct ces positive class: 0.0 (n=88)
+correct ces negative class: 0.16666666666666666 (n=12)
+
+labeled size: 35
+unlabeled size: 708
+
+#### caipi iteration 11 ####
+
+Wrong (W)
+
+fp rate: 0.8441558441558441
+fn rate: 0.2222222222222222
+precision: 0.4779116465863454
+recall: 0.7777777777777778
+accuracy: 0.46579804560260585
+
+correct ces positive class: 0.024096385542168676 (n=83)
+correct ces negative class: 0.11764705882352941 (n=17)
+
+labeled size: 36
+unlabeled size: 707
+
+#### caipi iteration 12 ####
+
+Wrong (W)
+
+fp rate: 0.8181818181818182
+fn rate: 0.23529411764705882
+precision: 0.48148148148148145
+recall: 0.7647058823529411
+accuracy: 0.4723127035830619
+
+correct ces positive class: 0.023809523809523808 (n=84)
+correct ces negative class: 0.125 (n=16)
+
+labeled size: 37
+unlabeled size: 706
+
+#### caipi iteration 13 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.8441558441558441
+fn rate: 0.19607843137254902
+precision: 0.48616600790513836
+recall: 0.803921568627451
+accuracy: 0.4788273615635179
+
+correct ces positive class: 0.0 (n=84)
+correct ces negative class: 0.0625 (n=16)
+
+labeled size: 43
+unlabeled size: 705
+
+#### caipi iteration 14 ####
+
+Wrong (W)
+
+fp rate: 0.9025974025974026
+fn rate: 0.11764705882352941
+precision: 0.4927007299270073
+recall: 0.8823529411764706
+accuracy: 0.48859934853420195
+
+correct ces positive class: 0.0 (n=89)
+correct ces negative class: 0.09090909090909091 (n=11)
+
+labeled size: 44
+unlabeled size: 704
+
+#### caipi iteration 15 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.8896103896103896
+fn rate: 0.1111111111111111
+precision: 0.4981684981684982
+recall: 0.8888888888888888
+accuracy: 0.498371335504886
+
+correct ces positive class: 0.0 (n=86)
+correct ces negative class: 0.14285714285714285 (n=14)
+
+labeled size: 50
+unlabeled size: 703
+
+#### caipi iteration 16 ####
+
+Wrong (W)
+
+fp rate: 0.8766233766233766
+fn rate: 0.1111111111111111
+precision: 0.5018450184501845
+recall: 0.8888888888888888
+accuracy: 0.504885993485342
+
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+correct ces positive class: 0.04819277108433735 (n=83)
+correct ces negative class: 0.23529411764705882 (n=17)
+
+labeled size: 51
+unlabeled size: 702
+
+#### caipi iteration 17 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.9090909090909091
+fn rate: 0.10457516339869281
+precision: 0.49458483754512633
+recall: 0.8954248366013072
+accuracy: 0.49185667752442996
+
+correct ces positive class: 0.011235955056179775 (n=89)
+correct ces negative class: 0.18181818181818182 (n=11)
+
+labeled size: 57
+unlabeled size: 701
+
+#### caipi iteration 18 ####
+
+Wrong (W)
+
+fp rate: 0.8766233766233766
+fn rate: 0.13071895424836602
+precision: 0.4962686567164179
+recall: 0.869281045751634
+accuracy: 0.495114006514658
+
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+correct ces positive class: 0.047058823529411764 (n=85)
+correct ces negative class: 0.2 (n=15)
+
+labeled size: 58
+unlabeled size: 700
+
+#### caipi iteration 19 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.8766233766233766
+fn rate: 0.12418300653594772
+precision: 0.49814126394052044
+recall: 0.8758169934640523
+accuracy: 0.498371335504886
+
+correct ces positive class: 0.03333333333333333 (n=90)
+correct ces negative class: 0.3 (n=10)
+
+labeled size: 64
+unlabeled size: 699
+
+#### caipi iteration 20 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.8571428571428571
+fn rate: 0.11764705882352941
+precision: 0.5056179775280899
+recall: 0.8823529411764706
+accuracy: 0.511400651465798
+
+correct ces positive class: 0.09411764705882353 (n=85)
+correct ces negative class: 0.4 (n=15)
+
+labeled size: 65
+unlabeled size: 698
+
+#### caipi iteration 21 ####
+
+Wrong (W)
+
+fp rate: 0.8701298701298701
+fn rate: 0.12418300653594772
+precision: 0.5
+recall: 0.8758169934640523
+accuracy: 0.501628664495114
+
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+correct ces positive class: 0.03409090909090909 (n=88)
+correct ces negative class: 0.5833333333333334 (n=12)
+
+labeled size: 66
+unlabeled size: 697
+
+#### caipi iteration 22 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.8961038961038961
+fn rate: 0.0915032679738562
+precision: 0.5018050541516246
+recall: 0.9084967320261438
+accuracy: 0.504885993485342
+
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+correct ces positive class: 0.0989010989010989 (n=91)
+correct ces negative class: 0.3333333333333333 (n=9)
+
+labeled size: 72
+unlabeled size: 696
+
+#### caipi iteration 23 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.8506493506493507
+fn rate: 0.0718954248366013
+precision: 0.5201465201465202
+recall: 0.9281045751633987
+accuracy: 0.5374592833876222
+
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+correct ces positive class: 0.15730337078651685 (n=89)
+correct ces negative class: 0.2727272727272727 (n=11)
+
+labeled size: 73
+unlabeled size: 695
+
+#### caipi iteration 24 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.8116883116883117
+fn rate: 0.1111111111111111
+precision: 0.5210727969348659
+recall: 0.8888888888888888
+accuracy: 0.5374592833876222
+
+correct ces positive class: 0.07692307692307693 (n=78)
+correct ces negative class: 0.13636363636363635 (n=22)
+
+labeled size: 74
+unlabeled size: 694
+
+#### caipi iteration 25 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.7987012987012987
+fn rate: 0.09803921568627451
+precision: 0.5287356321839081
+recall: 0.9019607843137255
+accuracy: 0.5504885993485342
+
+correct ces positive class: 0.13095238095238096 (n=84)
+correct ces negative class: 0.1875 (n=16)
+
+labeled size: 80
+unlabeled size: 693
+
+#### caipi iteration 26 ####
+
+Wrong (W)
+
+fp rate: 0.6883116883116883
+fn rate: 0.12418300653594772
+precision: 0.5583333333333333
+recall: 0.8758169934640523
+accuracy: 0.5928338762214984
+
+correct ces positive class: 0.1527777777777778 (n=72)
+correct ces negative class: 0.14285714285714285 (n=28)
+
+labeled size: 81
+unlabeled size: 692
+
+#### caipi iteration 27 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.6623376623376623
+fn rate: 0.10457516339869281
+precision: 0.5732217573221757
+recall: 0.8954248366013072
+accuracy: 0.6156351791530945
+
+correct ces positive class: 0.16666666666666666 (n=72)
+correct ces negative class: 0.32142857142857145 (n=28)
+
+labeled size: 87
+unlabeled size: 691
+
+#### caipi iteration 28 ####
+
+Wrong (W)
+
+fp rate: 0.6363636363636364
+fn rate: 0.13725490196078433
+precision: 0.5739130434782609
+recall: 0.8627450980392157
+accuracy: 0.6123778501628665
+
+correct ces positive class: 0.17142857142857143 (n=70)
+correct ces negative class: 0.2 (n=30)
+
+labeled size: 88
+unlabeled size: 690
+
+#### caipi iteration 29 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.6688311688311688
+fn rate: 0.08496732026143791
+precision: 0.5761316872427984
+recall: 0.9150326797385621
+accuracy: 0.6221498371335505
+
+correct ces positive class: 0.1780821917808219 (n=73)
+correct ces negative class: 0.25925925925925924 (n=27)
+
+labeled size: 94
+unlabeled size: 689
+
+#### caipi iteration 30 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.4805194805194805
+fn rate: 0.1111111111111111
+precision: 0.6476190476190476
+recall: 0.8888888888888888
+accuracy: 0.7035830618892508
+
+correct ces positive class: 0.20634920634920634 (n=63)
+correct ces negative class: 0.24324324324324326 (n=37)
+
+labeled size: 100
+unlabeled size: 688
+
+#### caipi iteration 31 ####
+
+Wrong (W)
+
+fp rate: 0.4025974025974026
+fn rate: 0.1111111111111111
+precision: 0.6868686868686869
+recall: 0.8888888888888888
+accuracy: 0.742671009771987
+
+correct ces positive class: 0.16923076923076924 (n=65)
+correct ces negative class: 0.2571428571428571 (n=35)
+
+labeled size: 101
+unlabeled size: 687
+
+#### caipi iteration 32 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.4155844155844156
+fn rate: 0.13071895424836602
+precision: 0.6751269035532995
+recall: 0.869281045751634
+accuracy: 0.7263843648208469
+
+correct ces positive class: 0.14925373134328357 (n=67)
+correct ces negative class: 0.2727272727272727 (n=33)
+
+labeled size: 107
+unlabeled size: 686
+
+#### caipi iteration 33 ####
+
+Wrong (W)
+
+fp rate: 0.4090909090909091
+fn rate: 0.1568627450980392
+precision: 0.671875
+recall: 0.8431372549019608
+accuracy: 0.7166123778501629
+
+correct ces positive class: 0.05357142857142857 (n=56)
+correct ces negative class: 0.38636363636363635 (n=44)
+
+labeled size: 108
+unlabeled size: 685
+
+#### caipi iteration 34 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.38311688311688313
+fn rate: 0.12418300653594772
+precision: 0.694300518134715
+recall: 0.8758169934640523
+accuracy: 0.745928338762215
+
+correct ces positive class: 0.14285714285714285 (n=63)
+correct ces negative class: 0.43243243243243246 (n=37)
+
+labeled size: 114
+unlabeled size: 684
+
+#### caipi iteration 35 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.3246753246753247
+fn rate: 0.1503267973856209
+precision: 0.7222222222222222
+recall: 0.8496732026143791
+accuracy: 0.762214983713355
+
+correct ces positive class: 0.13114754098360656 (n=61)
+correct ces negative class: 0.23076923076923078 (n=39)
+
+labeled size: 120
+unlabeled size: 683
+
+#### caipi iteration 36 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.34415584415584416
+fn rate: 0.1568627450980392
+precision: 0.7087912087912088
+recall: 0.8431372549019608
+accuracy: 0.749185667752443
+
+correct ces positive class: 0.13793103448275862 (n=58)
+correct ces negative class: 0.3333333333333333 (n=42)
+
+labeled size: 126
+unlabeled size: 682
+
+#### caipi iteration 37 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2922077922077922
+fn rate: 0.1568627450980392
+precision: 0.7413793103448276
+recall: 0.8431372549019608
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.21052631578947367 (n=57)
+correct ces negative class: 0.27906976744186046 (n=43)
+
+labeled size: 132
+unlabeled size: 681
+
+#### caipi iteration 38 ####
+
+Wrong (W)
+
+fp rate: 0.2987012987012987
+fn rate: 0.17647058823529413
+precision: 0.7325581395348837
+recall: 0.8235294117647058
+accuracy: 0.762214983713355
+
+correct ces positive class: 0.13333333333333333 (n=60)
+correct ces negative class: 0.275 (n=40)
+
+labeled size: 133
+unlabeled size: 680
+
+#### caipi iteration 39 ####
+
+Wrong (W)
+
+fp rate: 0.2857142857142857
+fn rate: 0.1568627450980392
+precision: 0.7456647398843931
+recall: 0.8431372549019608
+accuracy: 0.7785016286644951
+
+correct ces positive class: 0.21818181818181817 (n=55)
+correct ces negative class: 0.2222222222222222 (n=45)
+
+labeled size: 134
+unlabeled size: 679
+
+#### caipi iteration 40 ####
+
+Wrong (W)
+
+fp rate: 0.2792207792207792
+fn rate: 0.17647058823529413
+precision: 0.7455621301775148
+recall: 0.8235294117647058
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.07407407407407407 (n=54)
+correct ces negative class: 0.41304347826086957 (n=46)
+
+labeled size: 135
+unlabeled size: 678
+
+#### caipi iteration 41 ####
+
+Wrong (W)
+
+fp rate: 0.2857142857142857
+fn rate: 0.1437908496732026
+precision: 0.7485714285714286
+recall: 0.8562091503267973
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.15789473684210525 (n=57)
+correct ces negative class: 0.37209302325581395 (n=43)
+
+labeled size: 136
+unlabeled size: 677
+
+#### caipi iteration 42 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.3051948051948052
+fn rate: 0.1830065359477124
+precision: 0.7267441860465116
+recall: 0.8169934640522876
+accuracy: 0.755700325732899
+
+correct ces positive class: 0.07017543859649122 (n=57)
+correct ces negative class: 0.3488372093023256 (n=43)
+
+labeled size: 137
+unlabeled size: 676
+
+#### caipi iteration 43 ####
+
+Wrong (W)
+
+fp rate: 0.2857142857142857
+fn rate: 0.1568627450980392
+precision: 0.7456647398843931
+recall: 0.8431372549019608
+accuracy: 0.7785016286644951
+
+correct ces positive class: 0.12962962962962962 (n=54)
+correct ces negative class: 0.17391304347826086 (n=46)
+
+labeled size: 138
+unlabeled size: 675
+
+#### caipi iteration 44 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2987012987012987
+fn rate: 0.16993464052287582
+precision: 0.7341040462427746
+recall: 0.8300653594771242
+accuracy: 0.7654723127035831
+
+correct ces positive class: 0.10909090909090909 (n=55)
+correct ces negative class: 0.28888888888888886 (n=45)
+
+labeled size: 144
+unlabeled size: 674
+
+#### caipi iteration 45 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.2987012987012987
+fn rate: 0.16993464052287582
+precision: 0.7341040462427746
+recall: 0.8300653594771242
+accuracy: 0.7654723127035831
+
+correct ces positive class: 0.09836065573770492 (n=61)
+correct ces negative class: 0.41025641025641024 (n=39)
+
+labeled size: 145
+unlabeled size: 673
+
+#### caipi iteration 46 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2922077922077922
+fn rate: 0.1503267973856209
+precision: 0.7428571428571429
+recall: 0.8496732026143791
+accuracy: 0.7785016286644951
+
+correct ces positive class: 0.20754716981132076 (n=53)
+correct ces negative class: 0.2978723404255319 (n=47)
+
+labeled size: 151
+unlabeled size: 672
+
+#### caipi iteration 47 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2922077922077922
+fn rate: 0.16339869281045752
+precision: 0.7398843930635838
+recall: 0.8366013071895425
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.16923076923076924 (n=65)
+correct ces negative class: 0.3142857142857143 (n=35)
+
+labeled size: 157
+unlabeled size: 671
+
+#### caipi iteration 48 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2727272727272727
+fn rate: 0.13725490196078433
+precision: 0.7586206896551724
+recall: 0.8627450980392157
+accuracy: 0.7947882736156352
+
+correct ces positive class: 0.19298245614035087 (n=57)
+correct ces negative class: 0.3488372093023256 (n=43)
+
+labeled size: 163
+unlabeled size: 670
+
+#### caipi iteration 49 ####
+
+Wrong (W)
+
+fp rate: 0.2597402597402597
+fn rate: 0.16339869281045752
+precision: 0.7619047619047619
+recall: 0.8366013071895425
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.17307692307692307 (n=52)
+correct ces negative class: 0.3333333333333333 (n=48)
+
+labeled size: 164
+unlabeled size: 669
+
+#### caipi iteration 50 ####
+
+Wrong (W)
+
+fp rate: 0.2662337662337662
+fn rate: 0.13071895424836602
+precision: 0.764367816091954
+recall: 0.869281045751634
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.2 (n=55)
+correct ces negative class: 0.4444444444444444 (n=45)
+
+labeled size: 165
+unlabeled size: 668
+
+#### caipi iteration 51 ####
+
+Wrong (W)
+
+fp rate: 0.24025974025974026
+fn rate: 0.16993464052287582
+precision: 0.774390243902439
+recall: 0.8300653594771242
+accuracy: 0.7947882736156352
+
+correct ces positive class: 0.1568627450980392 (n=51)
+correct ces negative class: 0.3877551020408163 (n=49)
+
+labeled size: 166
+unlabeled size: 667
+
+#### caipi iteration 52 ####
+
+Wrong (W)
+
+fp rate: 0.2532467532467532
+fn rate: 0.12418300653594772
+precision: 0.7745664739884393
+recall: 0.8758169934640523
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.11320754716981132 (n=53)
+correct ces negative class: 0.3404255319148936 (n=47)
+
+labeled size: 167
+unlabeled size: 666
+
+#### caipi iteration 53 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.24025974025974026
+fn rate: 0.16993464052287582
+precision: 0.774390243902439
+recall: 0.8300653594771242
+accuracy: 0.7947882736156352
+
+correct ces positive class: 0.24528301886792453 (n=53)
+correct ces negative class: 0.3829787234042553 (n=47)
+
+labeled size: 173
+unlabeled size: 665
+
+#### caipi iteration 54 ####
+
+Wrong (W)
+
+fp rate: 0.23376623376623376
+fn rate: 0.16993464052287582
+precision: 0.7791411042944786
+recall: 0.8300653594771242
+accuracy: 0.7980456026058632
+
+correct ces positive class: 0.1836734693877551 (n=49)
+correct ces negative class: 0.27450980392156865 (n=51)
+
+labeled size: 174
+unlabeled size: 664
+
+#### caipi iteration 55 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1568627450980392
+precision: 0.7818181818181819
+recall: 0.8431372549019608
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.17391304347826086 (n=46)
+correct ces negative class: 0.3148148148148148 (n=54)
+
+labeled size: 180
+unlabeled size: 663
+
+#### caipi iteration 56 ####
+
+Wrong (W)
+
+fp rate: 0.23376623376623376
+fn rate: 0.13725490196078433
+precision: 0.7857142857142857
+recall: 0.8627450980392157
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.28846153846153844 (n=52)
+correct ces negative class: 0.3125 (n=48)
+
+labeled size: 181
+unlabeled size: 662
+
+#### caipi iteration 57 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22077922077922077
+fn rate: 0.1437908496732026
+precision: 0.793939393939394
+recall: 0.8562091503267973
+accuracy: 0.8175895765472313
+
+correct ces positive class: 0.3181818181818182 (n=44)
+correct ces negative class: 0.32142857142857145 (n=56)
+
+labeled size: 187
+unlabeled size: 661
+
+#### caipi iteration 58 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21428571428571427
+fn rate: 0.1437908496732026
+precision: 0.7987804878048781
+recall: 0.8562091503267973
+accuracy: 0.8208469055374593
+
+correct ces positive class: 0.2962962962962963 (n=54)
+correct ces negative class: 0.30434782608695654 (n=46)
+
+labeled size: 193
+unlabeled size: 660
+
+#### caipi iteration 59 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21428571428571427
+fn rate: 0.16339869281045752
+precision: 0.7950310559006211
+recall: 0.8366013071895425
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.22807017543859648 (n=57)
+correct ces negative class: 0.32558139534883723 (n=43)
+
+labeled size: 199
+unlabeled size: 659
+
+#### caipi iteration 60 ####
+
+Wrong (W)
+
+fp rate: 0.2012987012987013
+fn rate: 0.1568627450980392
+precision: 0.80625
+recall: 0.8431372549019608
+accuracy: 0.8208469055374593
+
+correct ces positive class: 0.22413793103448276 (n=58)
+correct ces negative class: 0.2857142857142857 (n=42)
+
+labeled size: 200
+unlabeled size: 658
+
+#### caipi iteration 61 ####
+
+Wrong (W)
+
+fp rate: 0.2077922077922078
+fn rate: 0.1503267973856209
+precision: 0.8024691358024691
+recall: 0.8496732026143791
+accuracy: 0.8208469055374593
+
+correct ces positive class: 0.17647058823529413 (n=51)
+correct ces negative class: 0.2857142857142857 (n=49)
+
+labeled size: 201
+unlabeled size: 657
+
+#### caipi iteration 62 ####
+
+Wrong (W)
+
+fp rate: 0.21428571428571427
+fn rate: 0.1568627450980392
+precision: 0.7962962962962963
+recall: 0.8431372549019608
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.15384615384615385 (n=52)
+correct ces negative class: 0.4166666666666667 (n=48)
+
+labeled size: 202
+unlabeled size: 656
+
+#### caipi iteration 63 ####
+
+Wrong (W)
+
+fp rate: 0.24025974025974026
+fn rate: 0.1568627450980392
+precision: 0.7771084337349398
+recall: 0.8431372549019608
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.24528301886792453 (n=53)
+correct ces negative class: 0.3404255319148936 (n=47)
+
+labeled size: 203
+unlabeled size: 655
+
+#### caipi iteration 64 ####
+
+Wrong (W)
+
+fp rate: 0.24025974025974026
+fn rate: 0.1437908496732026
+precision: 0.7797619047619048
+recall: 0.8562091503267973
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.21739130434782608 (n=46)
+correct ces negative class: 0.4074074074074074 (n=54)
+
+labeled size: 204
+unlabeled size: 654
+
+#### caipi iteration 65 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.22727272727272727
+fn rate: 0.1437908496732026
+precision: 0.7891566265060241
+recall: 0.8562091503267973
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.2641509433962264 (n=53)
+correct ces negative class: 0.2978723404255319 (n=47)
+
+labeled size: 205
+unlabeled size: 653
+
+#### caipi iteration 66 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22727272727272727
+fn rate: 0.1437908496732026
+precision: 0.7891566265060241
+recall: 0.8562091503267973
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.3269230769230769 (n=52)
+correct ces negative class: 0.3541666666666667 (n=48)
+
+labeled size: 211
+unlabeled size: 652
+
+#### caipi iteration 67 ####
+
+Wrong (W)
+
+fp rate: 0.22727272727272727
+fn rate: 0.1437908496732026
+precision: 0.7891566265060241
+recall: 0.8562091503267973
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.2641509433962264 (n=53)
+correct ces negative class: 0.3617021276595745 (n=47)
+
+labeled size: 212
+unlabeled size: 651
+
+#### caipi iteration 68 ####
+
+Wrong (W)
+
+fp rate: 0.22727272727272727
+fn rate: 0.1437908496732026
+precision: 0.7891566265060241
+recall: 0.8562091503267973
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.20754716981132076 (n=53)
+correct ces negative class: 0.3829787234042553 (n=47)
+
+labeled size: 213
+unlabeled size: 650
+
+#### caipi iteration 69 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22077922077922077
+fn rate: 0.1503267973856209
+precision: 0.7926829268292683
+recall: 0.8496732026143791
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.18181818181818182 (n=55)
+correct ces negative class: 0.4222222222222222 (n=45)
+
+labeled size: 219
+unlabeled size: 649
+
+#### caipi iteration 70 ####
+
+Wrong (W)
+
+fp rate: 0.22077922077922077
+fn rate: 0.1503267973856209
+precision: 0.7926829268292683
+recall: 0.8496732026143791
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.29411764705882354 (n=51)
+correct ces negative class: 0.5306122448979592 (n=49)
+
+labeled size: 220
+unlabeled size: 648
+
+#### caipi iteration 71 ####
+
+Wrong (W)
+
+fp rate: 0.22727272727272727
+fn rate: 0.1503267973856209
+precision: 0.7878787878787878
+recall: 0.8496732026143791
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.2127659574468085 (n=47)
+correct ces negative class: 0.4528301886792453 (n=53)
+
+labeled size: 221
+unlabeled size: 647
+
+#### caipi iteration 72 ####
+
+Wrong (W)
+
+fp rate: 0.22727272727272727
+fn rate: 0.1568627450980392
+precision: 0.7865853658536586
+recall: 0.8431372549019608
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.3333333333333333 (n=45)
+correct ces negative class: 0.36363636363636365 (n=55)
+
+labeled size: 222
+unlabeled size: 646
+
+#### caipi iteration 73 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22727272727272727
+fn rate: 0.1503267973856209
+precision: 0.7878787878787878
+recall: 0.8496732026143791
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.25 (n=56)
+correct ces negative class: 0.29545454545454547 (n=44)
+
+labeled size: 228
+unlabeled size: 645
+
+#### caipi iteration 74 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22727272727272727
+fn rate: 0.1503267973856209
+precision: 0.7878787878787878
+recall: 0.8496732026143791
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.28846153846153844 (n=52)
+correct ces negative class: 0.375 (n=48)
+
+labeled size: 234
+unlabeled size: 644
+
+#### caipi iteration 75 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.22077922077922077
+fn rate: 0.1503267973856209
+precision: 0.7926829268292683
+recall: 0.8496732026143791
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.32 (n=50)
+correct ces negative class: 0.3 (n=50)
+
+labeled size: 235
+unlabeled size: 643
+
+#### caipi iteration 76 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22077922077922077
+fn rate: 0.1503267973856209
+precision: 0.7926829268292683
+recall: 0.8496732026143791
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.2727272727272727 (n=55)
+correct ces negative class: 0.4888888888888889 (n=45)
+
+labeled size: 241
+unlabeled size: 642
+
+#### caipi iteration 77 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22077922077922077
+fn rate: 0.1503267973856209
+precision: 0.7926829268292683
+recall: 0.8496732026143791
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.37735849056603776 (n=53)
+correct ces negative class: 0.3404255319148936 (n=47)
+
+labeled size: 247
+unlabeled size: 641
+
+#### caipi iteration 78 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22077922077922077
+fn rate: 0.1503267973856209
+precision: 0.7926829268292683
+recall: 0.8496732026143791
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.2545454545454545 (n=55)
+correct ces negative class: 0.37777777777777777 (n=45)
+
+labeled size: 253
+unlabeled size: 640
+
+#### caipi iteration 79 ####
+
+Wrong (W)
+
+fp rate: 0.22077922077922077
+fn rate: 0.1503267973856209
+precision: 0.7926829268292683
+recall: 0.8496732026143791
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.18 (n=50)
+correct ces negative class: 0.26 (n=50)
+
+labeled size: 254
+unlabeled size: 639
+
+#### caipi iteration 80 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22727272727272727
+fn rate: 0.1503267973856209
+precision: 0.7878787878787878
+recall: 0.8496732026143791
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.3333333333333333 (n=54)
+correct ces negative class: 0.34782608695652173 (n=46)
+
+labeled size: 260
+unlabeled size: 638
+
+#### caipi iteration 81 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22727272727272727
+fn rate: 0.1503267973856209
+precision: 0.7878787878787878
+recall: 0.8496732026143791
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.2777777777777778 (n=54)
+correct ces negative class: 0.32608695652173914 (n=46)
+
+labeled size: 266
+unlabeled size: 637
+
+#### caipi iteration 82 ####
+
+Wrong (W)
+
+fp rate: 0.22727272727272727
+fn rate: 0.1503267973856209
+precision: 0.7878787878787878
+recall: 0.8496732026143791
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.1702127659574468 (n=47)
+correct ces negative class: 0.39622641509433965 (n=53)
+
+labeled size: 267
+unlabeled size: 636
+
+#### caipi iteration 83 ####
+
+Wrong (W)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1503267973856209
+precision: 0.7831325301204819
+recall: 0.8496732026143791
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.2692307692307692 (n=52)
+correct ces negative class: 0.3125 (n=48)
+
+labeled size: 268
+unlabeled size: 635
+
+#### caipi iteration 84 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1503267973856209
+precision: 0.7831325301204819
+recall: 0.8496732026143791
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.2037037037037037 (n=54)
+correct ces negative class: 0.391304347826087 (n=46)
+
+labeled size: 274
+unlabeled size: 634
+
+#### caipi iteration 85 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1503267973856209
+precision: 0.7831325301204819
+recall: 0.8496732026143791
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.37037037037037035 (n=54)
+correct ces negative class: 0.30434782608695654 (n=46)
+
+labeled size: 280
+unlabeled size: 633
+
+#### caipi iteration 86 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1503267973856209
+precision: 0.7831325301204819
+recall: 0.8496732026143791
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.27450980392156865 (n=51)
+correct ces negative class: 0.3469387755102041 (n=49)
+
+labeled size: 286
+unlabeled size: 632
+
+#### caipi iteration 87 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1503267973856209
+precision: 0.7831325301204819
+recall: 0.8496732026143791
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.24074074074074073 (n=54)
+correct ces negative class: 0.32608695652173914 (n=46)
+
+labeled size: 292
+unlabeled size: 631
+
+#### caipi iteration 88 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1503267973856209
+precision: 0.7831325301204819
+recall: 0.8496732026143791
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.22641509433962265 (n=53)
+correct ces negative class: 0.425531914893617 (n=47)
+
+labeled size: 298
+unlabeled size: 630
+
+#### caipi iteration 89 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1503267973856209
+precision: 0.7831325301204819
+recall: 0.8496732026143791
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.14 (n=50)
+correct ces negative class: 0.42 (n=50)
+
+labeled size: 304
+unlabeled size: 629
+
+#### caipi iteration 90 ####
+
+Wrong (W)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1503267973856209
+precision: 0.7831325301204819
+recall: 0.8496732026143791
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.1346153846153846 (n=52)
+correct ces negative class: 0.3541666666666667 (n=48)
+
+labeled size: 305
+unlabeled size: 628
+
+#### caipi iteration 91 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1568627450980392
+precision: 0.7818181818181819
+recall: 0.8431372549019608
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.17543859649122806 (n=57)
+correct ces negative class: 0.20930232558139536 (n=43)
+
+labeled size: 311
+unlabeled size: 627
+
+#### caipi iteration 92 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1568627450980392
+precision: 0.7818181818181819
+recall: 0.8431372549019608
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.34615384615384615 (n=52)
+correct ces negative class: 0.4166666666666667 (n=48)
+
+labeled size: 312
+unlabeled size: 626
+
+#### caipi iteration 93 ####
+
+Wrong (W)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1568627450980392
+precision: 0.7818181818181819
+recall: 0.8431372549019608
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.28846153846153844 (n=52)
+correct ces negative class: 0.3125 (n=48)
+
+labeled size: 313
+unlabeled size: 625
+
+#### caipi iteration 94 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1568627450980392
+precision: 0.7818181818181819
+recall: 0.8431372549019608
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.37037037037037035 (n=54)
+correct ces negative class: 0.32608695652173914 (n=46)
+
+labeled size: 319
+unlabeled size: 624
+
+#### caipi iteration 95 ####
+
+Wrong (W)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1568627450980392
+precision: 0.7818181818181819
+recall: 0.8431372549019608
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.36538461538461536 (n=52)
+correct ces negative class: 0.3333333333333333 (n=48)
+
+labeled size: 320
+unlabeled size: 623
+
+#### caipi iteration 96 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1568627450980392
+precision: 0.7818181818181819
+recall: 0.8431372549019608
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.34615384615384615 (n=52)
+correct ces negative class: 0.375 (n=48)
+
+labeled size: 321
+unlabeled size: 622
+
+#### caipi iteration 97 ####
+
+Wrong (W)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1568627450980392
+precision: 0.7818181818181819
+recall: 0.8431372549019608
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.40384615384615385 (n=52)
+correct ces negative class: 0.3125 (n=48)
+
+labeled size: 322
+unlabeled size: 621
+
+#### caipi iteration 98 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1568627450980392
+precision: 0.7818181818181819
+recall: 0.8431372549019608
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.2962962962962963 (n=54)
+correct ces negative class: 0.34782608695652173 (n=46)
+
+labeled size: 328
+unlabeled size: 620
+
+#### caipi iteration 99 ####
+
+Wrong (W)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1568627450980392
+precision: 0.7818181818181819
+recall: 0.8431372549019608
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.25 (n=52)
+correct ces negative class: 0.4375 (n=48)
+
+labeled size: 329
+unlabeled size: 619
+
+#### caipi iteration 100 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23376623376623376
+fn rate: 0.1568627450980392
+precision: 0.7818181818181819
+recall: 0.8431372549019608
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.19298245614035087 (n=57)
+correct ces negative class: 0.3953488372093023 (n=43)
+
+labeled size: 335
+unlabeled size: 618
+
+#### end experimental iteration 1 ####
+
+#### start experimental iteration 2 ####
+
+#### caipi iteration 1 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.9782608695652174
+fn rate: 0.0
+precision: 0.555921052631579
+recall: 1.0
+accuracy: 0.5602605863192183
+
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+correct ces positive class: 0.0 (n=98)
+correct ces negative class: 0.5 (n=2)
+
+labeled size: 16
+unlabeled size: 717
+
+#### caipi iteration 2 ####
+
+Wrong (W)
+
+fp rate: 0.5144927536231884
+fn rate: 0.26627218934911245
+precision: 0.6358974358974359
+recall: 0.7337278106508875
+accuracy: 0.6221498371335505
+
+correct ces positive class: 0.3050847457627119 (n=59)
+correct ces negative class: 0.14634146341463414 (n=41)
+
+labeled size: 17
+unlabeled size: 716
+
+#### caipi iteration 3 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.6231884057971014
+fn rate: 0.16568047337278108
+precision: 0.6211453744493393
+recall: 0.834319526627219
+accuracy: 0.6286644951140065
+
+correct ces positive class: 0.4230769230769231 (n=78)
+correct ces negative class: 0.13636363636363635 (n=22)
+
+labeled size: 23
+unlabeled size: 715
+
+#### caipi iteration 4 ####
+
+Wrong (W)
+
+fp rate: 0.7536231884057971
+fn rate: 0.10059171597633136
+precision: 0.59375
+recall: 0.8994082840236687
+accuracy: 0.6058631921824105
+
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+correct ces positive class: 0.09302325581395349 (n=86)
+correct ces negative class: 0.42857142857142855 (n=14)
+
+labeled size: 24
+unlabeled size: 714
+
+#### caipi iteration 5 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.8985507246376812
+fn rate: 0.05917159763313609
+precision: 0.5618374558303887
+recall: 0.9408284023668639
+accuracy: 0.5635179153094463
+
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+correct ces positive class: 0.08888888888888889 (n=90)
+correct ces negative class: 0.1 (n=10)
+
+labeled size: 30
+unlabeled size: 713
+
+#### caipi iteration 6 ####
+
+Wrong (W)
+
+fp rate: 0.4927536231884058
+fn rate: 0.1242603550295858
+precision: 0.6851851851851852
+recall: 0.8757396449704142
+accuracy: 0.7100977198697068
+
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+correct ces positive class: 0.28169014084507044 (n=71)
+correct ces negative class: 0.13793103448275862 (n=29)
+
+labeled size: 31
+unlabeled size: 712
+
+#### caipi iteration 7 ####
+
+Wrong (W)
+
+fp rate: 0.5942028985507246
+fn rate: 0.11242603550295859
+precision: 0.646551724137931
+recall: 0.8875739644970414
+accuracy: 0.6710097719869706
+
+correct ces positive class: 0.19444444444444445 (n=72)
+correct ces negative class: 0.25 (n=28)
+
+labeled size: 32
+unlabeled size: 711
+
+#### caipi iteration 8 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.6666666666666666
+fn rate: 0.07692307692307693
+precision: 0.6290322580645161
+recall: 0.9230769230769231
+accuracy: 0.6579804560260586
+
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+correct ces positive class: 0.27848101265822783 (n=79)
+correct ces negative class: 0.09523809523809523 (n=21)
+
+labeled size: 38
+unlabeled size: 710
+
+#### caipi iteration 9 ####
+
+Wrong (W)
+
+fp rate: 0.42028985507246375
+fn rate: 0.14201183431952663
+precision: 0.7142857142857143
+recall: 0.8579881656804734
+accuracy: 0.7328990228013029
+
+correct ces positive class: 0.24615384615384617 (n=65)
+correct ces negative class: 0.2571428571428571 (n=35)
+
+labeled size: 39
+unlabeled size: 709
+
+#### caipi iteration 10 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.45652173913043476
+fn rate: 0.11834319526627218
+precision: 0.7028301886792453
+recall: 0.8816568047337278
+accuracy: 0.7296416938110749
+
+correct ces positive class: 0.1791044776119403 (n=67)
+correct ces negative class: 0.21212121212121213 (n=33)
+
+labeled size: 45
+unlabeled size: 708
+
+#### caipi iteration 11 ####
+
+Wrong (W)
+
+fp rate: 0.427536231884058
+fn rate: 0.1834319526627219
+precision: 0.700507614213198
+recall: 0.8165680473372781
+accuracy: 0.7068403908794788
+
+correct ces positive class: 0.17647058823529413 (n=68)
+correct ces negative class: 0.125 (n=32)
+
+labeled size: 46
+unlabeled size: 707
+
+#### caipi iteration 12 ####
+
+Wrong (W)
+
+fp rate: 0.4927536231884058
+fn rate: 0.17159763313609466
+precision: 0.6730769230769231
+recall: 0.8284023668639053
+accuracy: 0.6840390879478827
+
+correct ces positive class: 0.25 (n=68)
+correct ces negative class: 0.125 (n=32)
+
+labeled size: 47
+unlabeled size: 706
+
+#### caipi iteration 13 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.5072463768115942
+fn rate: 0.13609467455621302
+precision: 0.6759259259259259
+recall: 0.863905325443787
+accuracy: 0.6970684039087948
+
+correct ces positive class: 0.18571428571428572 (n=70)
+correct ces negative class: 0.2 (n=30)
+
+labeled size: 53
+unlabeled size: 705
+
+#### caipi iteration 14 ####
+
+Wrong (W)
+
+fp rate: 0.39855072463768115
+fn rate: 0.14792899408284024
+precision: 0.7236180904522613
+recall: 0.8520710059171598
+accuracy: 0.739413680781759
+
+correct ces positive class: 0.26666666666666666 (n=60)
+correct ces negative class: 0.225 (n=40)
+
+labeled size: 54
+unlabeled size: 704
+
+#### caipi iteration 15 ####
+
+Wrong (W)
+
+fp rate: 0.391304347826087
+fn rate: 0.1834319526627219
+precision: 0.71875
+recall: 0.8165680473372781
+accuracy: 0.7231270358306189
+
+correct ces positive class: 0.23728813559322035 (n=59)
+correct ces negative class: 0.14634146341463414 (n=41)
+
+labeled size: 55
+unlabeled size: 703
+
+#### caipi iteration 16 ####
+
+Wrong (W)
+
+fp rate: 0.41304347826086957
+fn rate: 0.17159763313609466
+precision: 0.7106598984771574
+recall: 0.8284023668639053
+accuracy: 0.7198697068403909
+
+correct ces positive class: 0.42857142857142855 (n=63)
+correct ces negative class: 0.35135135135135137 (n=37)
+
+labeled size: 56
+unlabeled size: 702
+
+#### caipi iteration 17 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.42028985507246375
+fn rate: 0.15384615384615385
+precision: 0.7114427860696517
+recall: 0.8461538461538461
+accuracy: 0.7263843648208469
+
+correct ces positive class: 0.26865671641791045 (n=67)
+correct ces negative class: 0.2727272727272727 (n=33)
+
+labeled size: 62
+unlabeled size: 701
+
+#### caipi iteration 18 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.463768115942029
+fn rate: 0.15384615384615385
+precision: 0.6908212560386473
+recall: 0.8461538461538461
+accuracy: 0.7068403908794788
+
+correct ces positive class: 0.2413793103448276 (n=58)
+correct ces negative class: 0.21428571428571427 (n=42)
+
+labeled size: 68
+unlabeled size: 700
+
+#### caipi iteration 19 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.35507246376811596
+fn rate: 0.20118343195266272
+precision: 0.7336956521739131
+recall: 0.7988165680473372
+accuracy: 0.7296416938110749
+
+correct ces positive class: 0.26666666666666666 (n=60)
+correct ces negative class: 0.225 (n=40)
+
+labeled size: 74
+unlabeled size: 699
+
+#### caipi iteration 20 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.3188405797101449
+fn rate: 0.20118343195266272
+precision: 0.7541899441340782
+recall: 0.7988165680473372
+accuracy: 0.745928338762215
+
+correct ces positive class: 0.26229508196721313 (n=61)
+correct ces negative class: 0.28205128205128205 (n=39)
+
+labeled size: 80
+unlabeled size: 698
+
+#### caipi iteration 21 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2971014492753623
+fn rate: 0.17159763313609466
+precision: 0.7734806629834254
+recall: 0.8284023668639053
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.2153846153846154 (n=65)
+correct ces negative class: 0.34285714285714286 (n=35)
+
+labeled size: 86
+unlabeled size: 697
+
+#### caipi iteration 22 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2608695652173913
+fn rate: 0.17751479289940827
+precision: 0.7942857142857143
+recall: 0.8224852071005917
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.3275862068965517 (n=58)
+correct ces negative class: 0.2619047619047619 (n=42)
+
+labeled size: 92
+unlabeled size: 696
+
+#### caipi iteration 23 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.1893491124260355
+precision: 0.8058823529411765
+recall: 0.8106508875739645
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.22727272727272727 (n=66)
+correct ces negative class: 0.20588235294117646 (n=34)
+
+labeled size: 98
+unlabeled size: 695
+
+#### caipi iteration 24 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2463768115942029
+fn rate: 0.16568047337278108
+precision: 0.8057142857142857
+recall: 0.834319526627219
+accuracy: 0.7980456026058632
+
+correct ces positive class: 0.1206896551724138 (n=58)
+correct ces negative class: 0.23809523809523808 (n=42)
+
+labeled size: 104
+unlabeled size: 694
+
+#### caipi iteration 25 ####
+
+Wrong (W)
+
+fp rate: 0.2391304347826087
+fn rate: 0.1952662721893491
+precision: 0.8047337278106509
+recall: 0.8047337278106509
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.2 (n=55)
+correct ces negative class: 0.3333333333333333 (n=45)
+
+labeled size: 105
+unlabeled size: 693
+
+#### caipi iteration 26 ####
+
+Wrong (W)
+
+fp rate: 0.2463768115942029
+fn rate: 0.17751479289940827
+precision: 0.8034682080924855
+recall: 0.8224852071005917
+accuracy: 0.7915309446254072
+
+correct ces positive class: 0.24074074074074073 (n=54)
+correct ces negative class: 0.43478260869565216 (n=46)
+
+labeled size: 106
+unlabeled size: 692
+
+#### caipi iteration 27 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.17159763313609466
+precision: 0.8092485549132948
+recall: 0.8284023668639053
+accuracy: 0.7980456026058632
+
+correct ces positive class: 0.28125 (n=64)
+correct ces negative class: 0.3055555555555556 (n=36)
+
+labeled size: 112
+unlabeled size: 691
+
+#### caipi iteration 28 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.17159763313609466
+precision: 0.813953488372093
+recall: 0.8284023668639053
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.27586206896551724 (n=58)
+correct ces negative class: 0.21428571428571427 (n=42)
+
+labeled size: 118
+unlabeled size: 690
+
+#### caipi iteration 29 ####
+
+Wrong (W)
+
+fp rate: 0.2391304347826087
+fn rate: 0.1893491124260355
+precision: 0.8058823529411765
+recall: 0.8106508875739645
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.22641509433962265 (n=53)
+correct ces negative class: 0.19148936170212766 (n=47)
+
+labeled size: 119
+unlabeled size: 689
+
+#### caipi iteration 30 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2246376811594203
+fn rate: 0.17159763313609466
+precision: 0.8187134502923976
+recall: 0.8284023668639053
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.22413793103448276 (n=58)
+correct ces negative class: 0.19047619047619047 (n=42)
+
+labeled size: 125
+unlabeled size: 688
+
+#### caipi iteration 31 ####
+
+Wrong (W)
+
+fp rate: 0.2318840579710145
+fn rate: 0.1893491124260355
+precision: 0.8106508875739645
+recall: 0.8106508875739645
+accuracy: 0.7915309446254072
+
+correct ces positive class: 0.30357142857142855 (n=56)
+correct ces negative class: 0.3181818181818182 (n=44)
+
+labeled size: 126
+unlabeled size: 687
+
+#### caipi iteration 32 ####
+
+Wrong (W)
+
+fp rate: 0.2318840579710145
+fn rate: 0.1952662721893491
+precision: 0.8095238095238095
+recall: 0.8047337278106509
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.30357142857142855 (n=56)
+correct ces negative class: 0.22727272727272727 (n=44)
+
+labeled size: 127
+unlabeled size: 686
+
+#### caipi iteration 33 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2246376811594203
+fn rate: 0.15976331360946747
+precision: 0.8208092485549133
+recall: 0.8402366863905325
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.2 (n=60)
+correct ces negative class: 0.4 (n=40)
+
+labeled size: 133
+unlabeled size: 685
+
+#### caipi iteration 34 ####
+
+Wrong (W)
+
+fp rate: 0.2318840579710145
+fn rate: 0.17159763313609466
+precision: 0.813953488372093
+recall: 0.8284023668639053
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.3103448275862069 (n=58)
+correct ces negative class: 0.38095238095238093 (n=42)
+
+labeled size: 134
+unlabeled size: 684
+
+#### caipi iteration 35 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.17159763313609466
+precision: 0.813953488372093
+recall: 0.8284023668639053
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.328125 (n=64)
+correct ces negative class: 0.2777777777777778 (n=36)
+
+labeled size: 140
+unlabeled size: 683
+
+#### caipi iteration 36 ####
+
+Wrong (W)
+
+fp rate: 0.2391304347826087
+fn rate: 0.1952662721893491
+precision: 0.8047337278106509
+recall: 0.8047337278106509
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.27586206896551724 (n=58)
+correct ces negative class: 0.21428571428571427 (n=42)
+
+labeled size: 141
+unlabeled size: 682
+
+#### caipi iteration 37 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.1952662721893491
+precision: 0.8095238095238095
+recall: 0.8047337278106509
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.38333333333333336 (n=60)
+correct ces negative class: 0.325 (n=40)
+
+labeled size: 147
+unlabeled size: 681
+
+#### caipi iteration 38 ####
+
+Wrong (W)
+
+fp rate: 0.21739130434782608
+fn rate: 0.17159763313609466
+precision: 0.8235294117647058
+recall: 0.8284023668639053
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.2962962962962963 (n=54)
+correct ces negative class: 0.1956521739130435 (n=46)
+
+labeled size: 148
+unlabeled size: 680
+
+#### caipi iteration 39 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.1834319526627219
+precision: 0.8117647058823529
+recall: 0.8165680473372781
+accuracy: 0.7947882736156352
+
+correct ces positive class: 0.41379310344827586 (n=58)
+correct ces negative class: 0.21428571428571427 (n=42)
+
+labeled size: 154
+unlabeled size: 679
+
+#### caipi iteration 40 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.16568047337278108
+precision: 0.815028901734104
+recall: 0.834319526627219
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.3793103448275862 (n=58)
+correct ces negative class: 0.16666666666666666 (n=42)
+
+labeled size: 160
+unlabeled size: 678
+
+#### caipi iteration 41 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2246376811594203
+fn rate: 0.16568047337278108
+precision: 0.8197674418604651
+recall: 0.834319526627219
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.2833333333333333 (n=60)
+correct ces negative class: 0.25 (n=40)
+
+labeled size: 166
+unlabeled size: 677
+
+#### caipi iteration 42 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.21739130434782608
+fn rate: 0.17159763313609466
+precision: 0.8235294117647058
+recall: 0.8284023668639053
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.21052631578947367 (n=57)
+correct ces negative class: 0.3488372093023256 (n=43)
+
+labeled size: 167
+unlabeled size: 676
+
+#### caipi iteration 43 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.16568047337278108
+precision: 0.815028901734104
+recall: 0.834319526627219
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.288135593220339 (n=59)
+correct ces negative class: 0.2926829268292683 (n=41)
+
+labeled size: 173
+unlabeled size: 675
+
+#### caipi iteration 44 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.16568047337278108
+precision: 0.815028901734104
+recall: 0.834319526627219
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.29310344827586204 (n=58)
+correct ces negative class: 0.30952380952380953 (n=42)
+
+labeled size: 179
+unlabeled size: 674
+
+#### caipi iteration 45 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.16568047337278108
+precision: 0.815028901734104
+recall: 0.834319526627219
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.39655172413793105 (n=58)
+correct ces negative class: 0.23809523809523808 (n=42)
+
+labeled size: 185
+unlabeled size: 673
+
+#### caipi iteration 46 ####
+
+Wrong (W)
+
+fp rate: 0.2318840579710145
+fn rate: 0.16568047337278108
+precision: 0.815028901734104
+recall: 0.834319526627219
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.2830188679245283 (n=53)
+correct ces negative class: 0.3404255319148936 (n=47)
+
+labeled size: 186
+unlabeled size: 672
+
+#### caipi iteration 47 ####
+
+Wrong (W)
+
+fp rate: 0.2318840579710145
+fn rate: 0.15976331360946747
+precision: 0.8160919540229885
+recall: 0.8402366863905325
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.36363636363636365 (n=55)
+correct ces negative class: 0.2222222222222222 (n=45)
+
+labeled size: 187
+unlabeled size: 671
+
+#### caipi iteration 48 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.15976331360946747
+precision: 0.8114285714285714
+recall: 0.8402366863905325
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.38181818181818183 (n=55)
+correct ces negative class: 0.28888888888888886 (n=45)
+
+labeled size: 193
+unlabeled size: 670
+
+#### caipi iteration 49 ####
+
+Wrong (W)
+
+fp rate: 0.2391304347826087
+fn rate: 0.15976331360946747
+precision: 0.8114285714285714
+recall: 0.8402366863905325
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.3508771929824561 (n=57)
+correct ces negative class: 0.18604651162790697 (n=43)
+
+labeled size: 194
+unlabeled size: 669
+
+#### caipi iteration 50 ####
+
+Wrong (W)
+
+fp rate: 0.2318840579710145
+fn rate: 0.17159763313609466
+precision: 0.813953488372093
+recall: 0.8284023668639053
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.32142857142857145 (n=56)
+correct ces negative class: 0.2727272727272727 (n=44)
+
+labeled size: 195
+unlabeled size: 668
+
+#### caipi iteration 51 ####
+
+Wrong (W)
+
+fp rate: 0.2246376811594203
+fn rate: 0.16568047337278108
+precision: 0.8197674418604651
+recall: 0.834319526627219
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.38461538461538464 (n=52)
+correct ces negative class: 0.2916666666666667 (n=48)
+
+labeled size: 196
+unlabeled size: 667
+
+#### caipi iteration 52 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.16568047337278108
+precision: 0.815028901734104
+recall: 0.834319526627219
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.39285714285714285 (n=56)
+correct ces negative class: 0.38636363636363635 (n=44)
+
+labeled size: 202
+unlabeled size: 666
+
+#### caipi iteration 53 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.16568047337278108
+precision: 0.815028901734104
+recall: 0.834319526627219
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.3508771929824561 (n=57)
+correct ces negative class: 0.23255813953488372 (n=43)
+
+labeled size: 203
+unlabeled size: 665
+
+#### caipi iteration 54 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.16568047337278108
+precision: 0.815028901734104
+recall: 0.834319526627219
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.34545454545454546 (n=55)
+correct ces negative class: 0.37777777777777777 (n=45)
+
+labeled size: 209
+unlabeled size: 664
+
+#### caipi iteration 55 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.1952662721893491
+precision: 0.8095238095238095
+recall: 0.8047337278106509
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.36507936507936506 (n=63)
+correct ces negative class: 0.2972972972972973 (n=37)
+
+labeled size: 215
+unlabeled size: 663
+
+#### caipi iteration 56 ####
+
+Wrong (W)
+
+fp rate: 0.21739130434782608
+fn rate: 0.17751479289940827
+precision: 0.8224852071005917
+recall: 0.8224852071005917
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.3888888888888889 (n=54)
+correct ces negative class: 0.30434782608695654 (n=46)
+
+labeled size: 216
+unlabeled size: 662
+
+#### caipi iteration 57 ####
+
+Wrong (W)
+
+fp rate: 0.2318840579710145
+fn rate: 0.1893491124260355
+precision: 0.8106508875739645
+recall: 0.8106508875739645
+accuracy: 0.7915309446254072
+
+correct ces positive class: 0.43636363636363634 (n=55)
+correct ces negative class: 0.37777777777777777 (n=45)
+
+labeled size: 217
+unlabeled size: 661
+
+#### caipi iteration 58 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.17751479289940827
+precision: 0.8128654970760234
+recall: 0.8224852071005917
+accuracy: 0.7980456026058632
+
+correct ces positive class: 0.35185185185185186 (n=54)
+correct ces negative class: 0.2608695652173913 (n=46)
+
+labeled size: 223
+unlabeled size: 660
+
+#### caipi iteration 59 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.17751479289940827
+precision: 0.8128654970760234
+recall: 0.8224852071005917
+accuracy: 0.7980456026058632
+
+correct ces positive class: 0.3333333333333333 (n=54)
+correct ces negative class: 0.1956521739130435 (n=46)
+
+labeled size: 229
+unlabeled size: 659
+
+#### caipi iteration 60 ####
+
+Wrong (W)
+
+fp rate: 0.2463768115942029
+fn rate: 0.1834319526627219
+precision: 0.8023255813953488
+recall: 0.8165680473372781
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.3508771929824561 (n=57)
+correct ces negative class: 0.13953488372093023 (n=43)
+
+labeled size: 230
+unlabeled size: 658
+
+#### caipi iteration 61 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2246376811594203
+fn rate: 0.17751479289940827
+precision: 0.8176470588235294
+recall: 0.8224852071005917
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.25862068965517243 (n=58)
+correct ces negative class: 0.35714285714285715 (n=42)
+
+labeled size: 236
+unlabeled size: 657
+
+#### caipi iteration 62 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2246376811594203
+fn rate: 0.17751479289940827
+precision: 0.8176470588235294
+recall: 0.8224852071005917
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.37735849056603776 (n=53)
+correct ces negative class: 0.3617021276595745 (n=47)
+
+labeled size: 242
+unlabeled size: 656
+
+#### caipi iteration 63 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.2246376811594203
+fn rate: 0.17751479289940827
+precision: 0.8176470588235294
+recall: 0.8224852071005917
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.2727272727272727 (n=55)
+correct ces negative class: 0.3333333333333333 (n=45)
+
+labeled size: 243
+unlabeled size: 655
+
+#### caipi iteration 64 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2246376811594203
+fn rate: 0.17751479289940827
+precision: 0.8176470588235294
+recall: 0.8224852071005917
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.27586206896551724 (n=58)
+correct ces negative class: 0.30952380952380953 (n=42)
+
+labeled size: 249
+unlabeled size: 654
+
+#### caipi iteration 65 ####
+
+Wrong (W)
+
+fp rate: 0.2246376811594203
+fn rate: 0.17751479289940827
+precision: 0.8176470588235294
+recall: 0.8224852071005917
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.32727272727272727 (n=55)
+correct ces negative class: 0.3333333333333333 (n=45)
+
+labeled size: 250
+unlabeled size: 653
+
+#### caipi iteration 66 ####
+
+Wrong (W)
+
+fp rate: 0.2391304347826087
+fn rate: 0.17751479289940827
+precision: 0.8081395348837209
+recall: 0.8224852071005917
+accuracy: 0.7947882736156352
+
+correct ces positive class: 0.4642857142857143 (n=56)
+correct ces negative class: 0.29545454545454547 (n=44)
+
+labeled size: 251
+unlabeled size: 652
+
+#### caipi iteration 67 ####
+
+Wrong (W)
+
+fp rate: 0.2391304347826087
+fn rate: 0.1893491124260355
+precision: 0.8058823529411765
+recall: 0.8106508875739645
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.4642857142857143 (n=56)
+correct ces negative class: 0.3409090909090909 (n=44)
+
+labeled size: 252
+unlabeled size: 651
+
+#### caipi iteration 68 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.1893491124260355
+precision: 0.8058823529411765
+recall: 0.8106508875739645
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.35714285714285715 (n=56)
+correct ces negative class: 0.4090909090909091 (n=44)
+
+labeled size: 258
+unlabeled size: 650
+
+#### caipi iteration 69 ####
+
+Wrong (W)
+
+fp rate: 0.2391304347826087
+fn rate: 0.1893491124260355
+precision: 0.8058823529411765
+recall: 0.8106508875739645
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.23214285714285715 (n=56)
+correct ces negative class: 0.38636363636363635 (n=44)
+
+labeled size: 259
+unlabeled size: 649
+
+#### caipi iteration 70 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.1952662721893491
+precision: 0.8047337278106509
+recall: 0.8047337278106509
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.42857142857142855 (n=56)
+correct ces negative class: 0.4090909090909091 (n=44)
+
+labeled size: 260
+unlabeled size: 648
+
+#### caipi iteration 71 ####
+
+Wrong (W)
+
+fp rate: 0.2391304347826087
+fn rate: 0.1952662721893491
+precision: 0.8047337278106509
+recall: 0.8047337278106509
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.125 (n=56)
+correct ces negative class: 0.25 (n=44)
+
+labeled size: 261
+unlabeled size: 647
+
+#### caipi iteration 72 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.20118343195266272
+precision: 0.8035714285714286
+recall: 0.7988165680473372
+accuracy: 0.7817589576547231
+
+correct ces positive class: 0.3508771929824561 (n=57)
+correct ces negative class: 0.3488372093023256 (n=43)
+
+labeled size: 267
+unlabeled size: 646
+
+#### caipi iteration 73 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.20118343195266272
+precision: 0.8035714285714286
+recall: 0.7988165680473372
+accuracy: 0.7817589576547231
+
+correct ces positive class: 0.3333333333333333 (n=57)
+correct ces negative class: 0.3023255813953488 (n=43)
+
+labeled size: 273
+unlabeled size: 645
+
+#### caipi iteration 74 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.20118343195266272
+precision: 0.8035714285714286
+recall: 0.7988165680473372
+accuracy: 0.7817589576547231
+
+correct ces positive class: 0.23636363636363636 (n=55)
+correct ces negative class: 0.35555555555555557 (n=45)
+
+labeled size: 279
+unlabeled size: 644
+
+#### caipi iteration 75 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.20118343195266272
+precision: 0.8035714285714286
+recall: 0.7988165680473372
+accuracy: 0.7817589576547231
+
+correct ces positive class: 0.39655172413793105 (n=58)
+correct ces negative class: 0.35714285714285715 (n=42)
+
+labeled size: 280
+unlabeled size: 643
+
+#### caipi iteration 76 ####
+
+Wrong (W)
+
+fp rate: 0.2391304347826087
+fn rate: 0.20118343195266272
+precision: 0.8035714285714286
+recall: 0.7988165680473372
+accuracy: 0.7817589576547231
+
+correct ces positive class: 0.2830188679245283 (n=53)
+correct ces negative class: 0.2127659574468085 (n=47)
+
+labeled size: 281
+unlabeled size: 642
+
+#### caipi iteration 77 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.21301775147928995
+precision: 0.806060606060606
+recall: 0.7869822485207101
+accuracy: 0.7785016286644951
+
+correct ces positive class: 0.29411764705882354 (n=51)
+correct ces negative class: 0.3469387755102041 (n=49)
+
+labeled size: 287
+unlabeled size: 641
+
+#### caipi iteration 78 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.20118343195266272
+precision: 0.8035714285714286
+recall: 0.7988165680473372
+accuracy: 0.7817589576547231
+
+correct ces positive class: 0.20689655172413793 (n=58)
+correct ces negative class: 0.14285714285714285 (n=42)
+
+labeled size: 293
+unlabeled size: 640
+
+#### caipi iteration 79 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.20118343195266272
+precision: 0.8035714285714286
+recall: 0.7988165680473372
+accuracy: 0.7817589576547231
+
+correct ces positive class: 0.29310344827586204 (n=58)
+correct ces negative class: 0.30952380952380953 (n=42)
+
+labeled size: 299
+unlabeled size: 639
+
+#### caipi iteration 80 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.22485207100591717
+precision: 0.803680981595092
+recall: 0.7751479289940828
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.17647058823529413 (n=51)
+correct ces negative class: 0.22448979591836735 (n=49)
+
+labeled size: 305
+unlabeled size: 638
+
+#### caipi iteration 81 ####
+
+Wrong (W)
+
+fp rate: 0.2318840579710145
+fn rate: 0.21893491124260356
+precision: 0.8048780487804879
+recall: 0.7810650887573964
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.17647058823529413 (n=51)
+correct ces negative class: 0.42857142857142855 (n=49)
+
+labeled size: 306
+unlabeled size: 637
+
+#### caipi iteration 82 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.21301775147928995
+precision: 0.806060606060606
+recall: 0.7869822485207101
+accuracy: 0.7785016286644951
+
+correct ces positive class: 0.391304347826087 (n=46)
+correct ces negative class: 0.46296296296296297 (n=54)
+
+labeled size: 312
+unlabeled size: 636
+
+#### caipi iteration 83 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.20118343195266272
+precision: 0.8035714285714286
+recall: 0.7988165680473372
+accuracy: 0.7817589576547231
+
+correct ces positive class: 0.20689655172413793 (n=58)
+correct ces negative class: 0.38095238095238093 (n=42)
+
+labeled size: 313
+unlabeled size: 635
+
+#### caipi iteration 84 ####
+
+Wrong (W)
+
+fp rate: 0.2318840579710145
+fn rate: 0.21301775147928995
+precision: 0.806060606060606
+recall: 0.7869822485207101
+accuracy: 0.7785016286644951
+
+correct ces positive class: 0.16981132075471697 (n=53)
+correct ces negative class: 0.3404255319148936 (n=47)
+
+labeled size: 314
+unlabeled size: 634
+
+#### caipi iteration 85 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.20710059171597633
+precision: 0.8023952095808383
+recall: 0.7928994082840237
+accuracy: 0.7785016286644951
+
+correct ces positive class: 0.32142857142857145 (n=56)
+correct ces negative class: 0.36363636363636365 (n=44)
+
+labeled size: 320
+unlabeled size: 633
+
+#### caipi iteration 86 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.20710059171597633
+precision: 0.8023952095808383
+recall: 0.7928994082840237
+accuracy: 0.7785016286644951
+
+correct ces positive class: 0.25 (n=56)
+correct ces negative class: 0.4090909090909091 (n=44)
+
+labeled size: 326
+unlabeled size: 632
+
+#### caipi iteration 87 ####
+
+Wrong (W)
+
+fp rate: 0.2318840579710145
+fn rate: 0.21893491124260356
+precision: 0.8048780487804879
+recall: 0.7810650887573964
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.36538461538461536 (n=52)
+correct ces negative class: 0.375 (n=48)
+
+labeled size: 327
+unlabeled size: 631
+
+#### caipi iteration 88 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.21301775147928995
+precision: 0.8012048192771084
+recall: 0.7869822485207101
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.24489795918367346 (n=49)
+correct ces negative class: 0.37254901960784315 (n=51)
+
+labeled size: 333
+unlabeled size: 630
+
+#### caipi iteration 89 ####
+
+Wrong (W)
+
+fp rate: 0.2391304347826087
+fn rate: 0.21301775147928995
+precision: 0.8012048192771084
+recall: 0.7869822485207101
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.38 (n=50)
+correct ces negative class: 0.38 (n=50)
+
+labeled size: 334
+unlabeled size: 629
+
+#### caipi iteration 90 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.22485207100591717
+precision: 0.803680981595092
+recall: 0.7751479289940828
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.3684210526315789 (n=57)
+correct ces negative class: 0.3953488372093023 (n=43)
+
+labeled size: 340
+unlabeled size: 628
+
+#### caipi iteration 91 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.21301775147928995
+precision: 0.8012048192771084
+recall: 0.7869822485207101
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.40816326530612246 (n=49)
+correct ces negative class: 0.49019607843137253 (n=51)
+
+labeled size: 346
+unlabeled size: 627
+
+#### caipi iteration 92 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.21301775147928995
+precision: 0.8012048192771084
+recall: 0.7869822485207101
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.2692307692307692 (n=52)
+correct ces negative class: 0.2916666666666667 (n=48)
+
+labeled size: 352
+unlabeled size: 626
+
+#### caipi iteration 93 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.21301775147928995
+precision: 0.8012048192771084
+recall: 0.7869822485207101
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.23076923076923078 (n=52)
+correct ces negative class: 0.25 (n=48)
+
+labeled size: 358
+unlabeled size: 625
+
+#### caipi iteration 94 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.22485207100591717
+precision: 0.803680981595092
+recall: 0.7751479289940828
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.4406779661016949 (n=59)
+correct ces negative class: 0.36585365853658536 (n=41)
+
+labeled size: 364
+unlabeled size: 624
+
+#### caipi iteration 95 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.22485207100591717
+precision: 0.803680981595092
+recall: 0.7751479289940828
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.32 (n=50)
+correct ces negative class: 0.26 (n=50)
+
+labeled size: 370
+unlabeled size: 623
+
+#### caipi iteration 96 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2318840579710145
+fn rate: 0.22485207100591717
+precision: 0.803680981595092
+recall: 0.7751479289940828
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.2982456140350877 (n=57)
+correct ces negative class: 0.3953488372093023 (n=43)
+
+labeled size: 376
+unlabeled size: 622
+
+#### caipi iteration 97 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.21301775147928995
+precision: 0.8012048192771084
+recall: 0.7869822485207101
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.40384615384615385 (n=52)
+correct ces negative class: 0.375 (n=48)
+
+labeled size: 382
+unlabeled size: 621
+
+#### caipi iteration 98 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.21301775147928995
+precision: 0.8012048192771084
+recall: 0.7869822485207101
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.2 (n=50)
+correct ces negative class: 0.3 (n=50)
+
+labeled size: 383
+unlabeled size: 620
+
+#### caipi iteration 99 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2391304347826087
+fn rate: 0.21301775147928995
+precision: 0.8012048192771084
+recall: 0.7869822485207101
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.40384615384615385 (n=52)
+correct ces negative class: 0.3958333333333333 (n=48)
+
+labeled size: 389
+unlabeled size: 619
+
+#### caipi iteration 100 ####
+
+Wrong (W)
+
+fp rate: 0.2391304347826087
+fn rate: 0.21301775147928995
+precision: 0.8012048192771084
+recall: 0.7869822485207101
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.28 (n=50)
+correct ces negative class: 0.32 (n=50)
+
+labeled size: 390
+unlabeled size: 618
+
+#### end experimental iteration 2 ####
+
+#### start experimental iteration 3 ####
+
+#### caipi iteration 1 ####
+
+Wrong (W)
+
+fp rate: 0.4268292682926829
+fn rate: 0.6573426573426573
+precision: 0.4117647058823529
+recall: 0.34265734265734266
+accuracy: 0.46579804560260585
+
+correct ces positive class: 0.0 (n=30)
+correct ces negative class: 0.2571428571428571 (n=70)
+
+labeled size: 11
+unlabeled size: 717
+
+#### caipi iteration 2 ####
+
+Wrong (W)
+
+fp rate: 0.5548780487804879
+fn rate: 0.5244755244755245
+precision: 0.4276729559748428
+recall: 0.4755244755244755
+accuracy: 0.4592833876221498
+
+correct ces positive class: 0.022727272727272728 (n=44)
+correct ces negative class: 0.08928571428571429 (n=56)
+
+labeled size: 12
+unlabeled size: 716
+
+#### caipi iteration 3 ####
+
+Wrong (W)
+
+fp rate: 0.6463414634146342
+fn rate: 0.4195804195804196
+precision: 0.43915343915343913
+recall: 0.5804195804195804
+accuracy: 0.4592833876221498
+
+correct ces positive class: 0.06666666666666667 (n=60)
+correct ces negative class: 0.075 (n=40)
+
+labeled size: 13
+unlabeled size: 715
+
+#### caipi iteration 4 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.8048780487804879
+fn rate: 0.3146853146853147
+precision: 0.4260869565217391
+recall: 0.6853146853146853
+accuracy: 0.4234527687296417
+
+correct ces positive class: 0.0 (n=76)
+correct ces negative class: 0.20833333333333334 (n=24)
+
+labeled size: 14
+unlabeled size: 714
+
+#### caipi iteration 5 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.6890243902439024
+fn rate: 0.40559440559440557
+precision: 0.4292929292929293
+recall: 0.5944055944055944
+accuracy: 0.44299674267100975
+
+correct ces positive class: 0.015873015873015872 (n=63)
+correct ces negative class: 0.1891891891891892 (n=37)
+
+labeled size: 15
+unlabeled size: 713
+
+#### caipi iteration 6 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.6585365853658537
+fn rate: 0.5244755244755245
+precision: 0.38636363636363635
+recall: 0.4755244755244755
+accuracy: 0.40390879478827363
+
+correct ces positive class: 0.037037037037037035 (n=54)
+correct ces negative class: 0.17391304347826086 (n=46)
+
+labeled size: 21
+unlabeled size: 712
+
+#### caipi iteration 7 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.6585365853658537
+fn rate: 0.38461538461538464
+precision: 0.4489795918367347
+recall: 0.6153846153846154
+accuracy: 0.46905537459283386
+
+correct ces positive class: 0.016129032258064516 (n=62)
+correct ces negative class: 0.0 (n=38)
+
+labeled size: 27
+unlabeled size: 711
+
+#### caipi iteration 8 ####
+
+Wrong (W)
+
+fp rate: 0.5060975609756098
+fn rate: 0.4405594405594406
+precision: 0.49079754601226994
+recall: 0.5594405594405595
+accuracy: 0.5244299674267101
+
+correct ces positive class: 0.08333333333333333 (n=48)
+correct ces negative class: 0.19230769230769232 (n=52)
+
+labeled size: 28
+unlabeled size: 710
+
+#### caipi iteration 9 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.5182926829268293
+fn rate: 0.4195804195804196
+precision: 0.49404761904761907
+recall: 0.5804195804195804
+accuracy: 0.5276872964169381
+
+correct ces positive class: 0.05454545454545454 (n=55)
+correct ces negative class: 0.17777777777777778 (n=45)
+
+labeled size: 34
+unlabeled size: 709
+
+#### caipi iteration 10 ####
+
+Wrong (W)
+
+fp rate: 0.4695121951219512
+fn rate: 0.4825174825174825
+precision: 0.4900662251655629
+recall: 0.5174825174825175
+accuracy: 0.5244299674267101
+
+correct ces positive class: 0.06521739130434782 (n=46)
+correct ces negative class: 0.12962962962962962 (n=54)
+
+labeled size: 35
+unlabeled size: 708
+
+#### caipi iteration 11 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.5121951219512195
+fn rate: 0.43356643356643354
+precision: 0.4909090909090909
+recall: 0.5664335664335665
+accuracy: 0.5244299674267101
+
+correct ces positive class: 0.13333333333333333 (n=45)
+correct ces negative class: 0.2727272727272727 (n=55)
+
+labeled size: 41
+unlabeled size: 707
+
+#### caipi iteration 12 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.20121951219512196
+fn rate: 0.5454545454545454
+precision: 0.6632653061224489
+recall: 0.45454545454545453
+accuracy: 0.6384364820846905
+
+correct ces positive class: 0.1111111111111111 (n=36)
+correct ces negative class: 0.1875 (n=64)
+
+labeled size: 47
+unlabeled size: 706
+
+#### caipi iteration 13 ####
+
+Wrong (W)
+
+fp rate: 0.1402439024390244
+fn rate: 0.5804195804195804
+precision: 0.7228915662650602
+recall: 0.4195804195804196
+accuracy: 0.6547231270358306
+
+correct ces positive class: 0.2 (n=30)
+correct ces negative class: 0.2714285714285714 (n=70)
+
+labeled size: 48
+unlabeled size: 705
+
+#### caipi iteration 14 ####
+
+Wrong (W)
+
+fp rate: 0.1402439024390244
+fn rate: 0.5314685314685315
+precision: 0.7444444444444445
+recall: 0.46853146853146854
+accuracy: 0.6775244299674267
+
+correct ces positive class: 0.08333333333333333 (n=36)
+correct ces negative class: 0.125 (n=64)
+
+labeled size: 49
+unlabeled size: 704
+
+#### caipi iteration 15 ####
+
+Wrong (W)
+
+fp rate: 0.18902439024390244
+fn rate: 0.5174825174825175
+precision: 0.69
+recall: 0.4825174825174825
+accuracy: 0.6579804560260586
+
+correct ces positive class: 0.06896551724137931 (n=29)
+correct ces negative class: 0.15492957746478872 (n=71)
+
+labeled size: 50
+unlabeled size: 703
+
+#### caipi iteration 16 ####
+
+Wrong (W)
+
+fp rate: 0.20121951219512196
+fn rate: 0.4755244755244755
+precision: 0.6944444444444444
+recall: 0.5244755244755245
+accuracy: 0.6710097719869706
+
+correct ces positive class: 0.0967741935483871 (n=31)
+correct ces negative class: 0.2463768115942029 (n=69)
+
+labeled size: 51
+unlabeled size: 702
+
+#### caipi iteration 17 ####
+
+Wrong (W)
+
+fp rate: 0.2073170731707317
+fn rate: 0.4405594405594406
+precision: 0.7017543859649122
+recall: 0.5594405594405595
+accuracy: 0.6840390879478827
+
+correct ces positive class: 0.10526315789473684 (n=38)
+correct ces negative class: 0.16129032258064516 (n=62)
+
+labeled size: 52
+unlabeled size: 701
+
+#### caipi iteration 18 ####
+
+Wrong (W)
+
+fp rate: 0.21951219512195122
+fn rate: 0.34965034965034963
+precision: 0.7209302325581395
+recall: 0.6503496503496503
+accuracy: 0.7198697068403909
+
+correct ces positive class: 0.10256410256410256 (n=39)
+correct ces negative class: 0.18032786885245902 (n=61)
+
+labeled size: 53
+unlabeled size: 700
+
+#### caipi iteration 19 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.25
+fn rate: 0.4405594405594406
+precision: 0.6611570247933884
+recall: 0.5594405594405595
+accuracy: 0.6612377850162866
+
+correct ces positive class: 0.05405405405405406 (n=37)
+correct ces negative class: 0.15873015873015872 (n=63)
+
+labeled size: 59
+unlabeled size: 699
+
+#### caipi iteration 20 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.13414634146341464
+fn rate: 0.46153846153846156
+precision: 0.7777777777777778
+recall: 0.5384615384615384
+accuracy: 0.7133550488599348
+
+correct ces positive class: 0.06451612903225806 (n=31)
+correct ces negative class: 0.15942028985507245 (n=69)
+
+labeled size: 65
+unlabeled size: 698
+
+#### caipi iteration 21 ####
+
+Wrong (W)
+
+fp rate: 0.18902439024390244
+fn rate: 0.32167832167832167
+precision: 0.7578125
+recall: 0.6783216783216783
+accuracy: 0.749185667752443
+
+correct ces positive class: 0.11627906976744186 (n=43)
+correct ces negative class: 0.2807017543859649 (n=57)
+
+labeled size: 66
+unlabeled size: 697
+
+#### caipi iteration 22 ####
+
+Wrong (W)
+
+fp rate: 0.21341463414634146
+fn rate: 0.32867132867132864
+precision: 0.732824427480916
+recall: 0.6713286713286714
+accuracy: 0.7328990228013029
+
+correct ces positive class: 0.05128205128205128 (n=39)
+correct ces negative class: 0.19672131147540983 (n=61)
+
+labeled size: 67
+unlabeled size: 696
+
+#### caipi iteration 23 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.17682926829268292
+fn rate: 0.3006993006993007
+precision: 0.7751937984496124
+recall: 0.6993006993006993
+accuracy: 0.7654723127035831
+
+correct ces positive class: 0.05 (n=40)
+correct ces negative class: 0.38333333333333336 (n=60)
+
+labeled size: 73
+unlabeled size: 695
+
+#### caipi iteration 24 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.21951219512195122
+fn rate: 0.3146853146853147
+precision: 0.7313432835820896
+recall: 0.6853146853146853
+accuracy: 0.7361563517915309
+
+correct ces positive class: 0.07692307692307693 (n=52)
+correct ces negative class: 0.3333333333333333 (n=48)
+
+labeled size: 74
+unlabeled size: 694
+
+#### caipi iteration 25 ####
+
+Wrong (W)
+
+fp rate: 0.18902439024390244
+fn rate: 0.38461538461538464
+precision: 0.7394957983193278
+recall: 0.6153846153846154
+accuracy: 0.7198697068403909
+
+correct ces positive class: 0.10526315789473684 (n=38)
+correct ces negative class: 0.24193548387096775 (n=62)
+
+labeled size: 75
+unlabeled size: 693
+
+#### caipi iteration 26 ####
+
+Wrong (W)
+
+fp rate: 0.1951219512195122
+fn rate: 0.35664335664335667
+precision: 0.7419354838709677
+recall: 0.6433566433566433
+accuracy: 0.7296416938110749
+
+correct ces positive class: 0.047619047619047616 (n=42)
+correct ces negative class: 0.3275862068965517 (n=58)
+
+labeled size: 76
+unlabeled size: 692
+
+#### caipi iteration 27 ####
+
+Wrong (W)
+
+fp rate: 0.22560975609756098
+fn rate: 0.3146853146853147
+precision: 0.725925925925926
+recall: 0.6853146853146853
+accuracy: 0.7328990228013029
+
+correct ces positive class: 0.0851063829787234 (n=47)
+correct ces negative class: 0.2830188679245283 (n=53)
+
+labeled size: 77
+unlabeled size: 691
+
+#### caipi iteration 28 ####
+
+Wrong (W)
+
+fp rate: 0.21341463414634146
+fn rate: 0.3146853146853147
+precision: 0.7368421052631579
+recall: 0.6853146853146853
+accuracy: 0.739413680781759
+
+correct ces positive class: 0.0851063829787234 (n=47)
+correct ces negative class: 0.39622641509433965 (n=53)
+
+labeled size: 78
+unlabeled size: 690
+
+#### caipi iteration 29 ####
+
+Wrong (W)
+
+fp rate: 0.21951219512195122
+fn rate: 0.3076923076923077
+precision: 0.7333333333333333
+recall: 0.6923076923076923
+accuracy: 0.739413680781759
+
+correct ces positive class: 0.08163265306122448 (n=49)
+correct ces negative class: 0.23529411764705882 (n=51)
+
+labeled size: 79
+unlabeled size: 689
+
+#### caipi iteration 30 ####
+
+Wrong (W)
+
+fp rate: 0.24390243902439024
+fn rate: 0.2937062937062937
+precision: 0.7163120567375887
+recall: 0.7062937062937062
+accuracy: 0.7328990228013029
+
+correct ces positive class: 0.08620689655172414 (n=58)
+correct ces negative class: 0.38095238095238093 (n=42)
+
+labeled size: 80
+unlabeled size: 688
+
+#### caipi iteration 31 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.24390243902439024
+fn rate: 0.27972027972027974
+precision: 0.7202797202797203
+recall: 0.7202797202797203
+accuracy: 0.739413680781759
+
+correct ces positive class: 0.12195121951219512 (n=41)
+correct ces negative class: 0.3559322033898305 (n=59)
+
+labeled size: 86
+unlabeled size: 687
+
+#### caipi iteration 32 ####
+
+Wrong (W)
+
+fp rate: 0.23170731707317074
+fn rate: 0.24475524475524477
+precision: 0.7397260273972602
+recall: 0.7552447552447552
+accuracy: 0.762214983713355
+
+correct ces positive class: 0.041666666666666664 (n=48)
+correct ces negative class: 0.36538461538461536 (n=52)
+
+labeled size: 87
+unlabeled size: 686
+
+#### caipi iteration 33 ####
+
+Wrong (W)
+
+fp rate: 0.2621951219512195
+fn rate: 0.24475524475524477
+precision: 0.7152317880794702
+recall: 0.7552447552447552
+accuracy: 0.745928338762215
+
+correct ces positive class: 0.06521739130434782 (n=46)
+correct ces negative class: 0.3888888888888889 (n=54)
+
+labeled size: 88
+unlabeled size: 685
+
+#### caipi iteration 34 ####
+
+Wrong (W)
+
+fp rate: 0.23170731707317074
+fn rate: 0.23776223776223776
+precision: 0.7414965986394558
+recall: 0.7622377622377622
+accuracy: 0.7654723127035831
+
+correct ces positive class: 0.11363636363636363 (n=44)
+correct ces negative class: 0.30357142857142855 (n=56)
+
+labeled size: 89
+unlabeled size: 684
+
+#### caipi iteration 35 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23780487804878048
+fn rate: 0.22377622377622378
+precision: 0.74
+recall: 0.7762237762237763
+accuracy: 0.7687296416938111
+
+correct ces positive class: 0.0625 (n=48)
+correct ces negative class: 0.36538461538461536 (n=52)
+
+labeled size: 95
+unlabeled size: 683
+
+#### caipi iteration 36 ####
+
+Wrong (W)
+
+fp rate: 0.21951219512195122
+fn rate: 0.25874125874125875
+precision: 0.7464788732394366
+recall: 0.7412587412587412
+accuracy: 0.762214983713355
+
+correct ces positive class: 0.08163265306122448 (n=49)
+correct ces negative class: 0.35294117647058826 (n=51)
+
+labeled size: 96
+unlabeled size: 682
+
+#### caipi iteration 37 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21341463414634146
+fn rate: 0.26573426573426573
+precision: 0.75
+recall: 0.7342657342657343
+accuracy: 0.762214983713355
+
+correct ces positive class: 0.09302325581395349 (n=43)
+correct ces negative class: 0.40350877192982454 (n=57)
+
+labeled size: 102
+unlabeled size: 681
+
+#### caipi iteration 38 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21951219512195122
+fn rate: 0.25874125874125875
+precision: 0.7464788732394366
+recall: 0.7412587412587412
+accuracy: 0.762214983713355
+
+correct ces positive class: 0.05 (n=40)
+correct ces negative class: 0.35 (n=60)
+
+labeled size: 108
+unlabeled size: 680
+
+#### caipi iteration 39 ####
+
+Wrong (W)
+
+fp rate: 0.20121951219512196
+fn rate: 0.2867132867132867
+precision: 0.7555555555555555
+recall: 0.7132867132867133
+accuracy: 0.758957654723127
+
+correct ces positive class: 0.13043478260869565 (n=46)
+correct ces negative class: 0.2962962962962963 (n=54)
+
+labeled size: 109
+unlabeled size: 679
+
+#### caipi iteration 40 ####
+
+Wrong (W)
+
+fp rate: 0.24390243902439024
+fn rate: 0.26573426573426573
+precision: 0.7241379310344828
+recall: 0.7342657342657343
+accuracy: 0.745928338762215
+
+correct ces positive class: 0.04081632653061224 (n=49)
+correct ces negative class: 0.3137254901960784 (n=51)
+
+labeled size: 110
+unlabeled size: 678
+
+#### caipi iteration 41 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.24390243902439024
+fn rate: 0.2937062937062937
+precision: 0.7163120567375887
+recall: 0.7062937062937062
+accuracy: 0.7328990228013029
+
+correct ces positive class: 0.0851063829787234 (n=47)
+correct ces negative class: 0.39622641509433965 (n=53)
+
+labeled size: 111
+unlabeled size: 677
+
+#### caipi iteration 42 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22560975609756098
+fn rate: 0.2937062937062937
+precision: 0.7318840579710145
+recall: 0.7062937062937062
+accuracy: 0.742671009771987
+
+correct ces positive class: 0.04081632653061224 (n=49)
+correct ces negative class: 0.17647058823529413 (n=51)
+
+labeled size: 117
+unlabeled size: 676
+
+#### caipi iteration 43 ####
+
+Wrong (W)
+
+fp rate: 0.25
+fn rate: 0.25874125874125875
+precision: 0.7210884353741497
+recall: 0.7412587412587412
+accuracy: 0.745928338762215
+
+correct ces positive class: 0.06 (n=50)
+correct ces negative class: 0.3 (n=50)
+
+labeled size: 118
+unlabeled size: 675
+
+#### caipi iteration 44 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.25
+fn rate: 0.25874125874125875
+precision: 0.7210884353741497
+recall: 0.7412587412587412
+accuracy: 0.745928338762215
+
+correct ces positive class: 0.09259259259259259 (n=54)
+correct ces negative class: 0.21739130434782608 (n=46)
+
+labeled size: 124
+unlabeled size: 674
+
+#### caipi iteration 45 ####
+
+Wrong (W)
+
+fp rate: 0.25
+fn rate: 0.22377622377622378
+precision: 0.7302631578947368
+recall: 0.7762237762237763
+accuracy: 0.762214983713355
+
+correct ces positive class: 0.037037037037037035 (n=54)
+correct ces negative class: 0.2608695652173913 (n=46)
+
+labeled size: 125
+unlabeled size: 673
+
+#### caipi iteration 46 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.25609756097560976
+fn rate: 0.26573426573426573
+precision: 0.7142857142857143
+recall: 0.7342657342657343
+accuracy: 0.739413680781759
+
+correct ces positive class: 0.045454545454545456 (n=44)
+correct ces negative class: 0.32142857142857145 (n=56)
+
+labeled size: 131
+unlabeled size: 672
+
+#### caipi iteration 47 ####
+
+Wrong (W)
+
+fp rate: 0.25
+fn rate: 0.2517482517482518
+precision: 0.722972972972973
+recall: 0.7482517482517482
+accuracy: 0.749185667752443
+
+correct ces positive class: 0.0425531914893617 (n=47)
+correct ces negative class: 0.24528301886792453 (n=53)
+
+labeled size: 132
+unlabeled size: 671
+
+#### caipi iteration 48 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23780487804878048
+fn rate: 0.23776223776223776
+precision: 0.7364864864864865
+recall: 0.7622377622377622
+accuracy: 0.762214983713355
+
+correct ces positive class: 0.0425531914893617 (n=47)
+correct ces negative class: 0.33962264150943394 (n=53)
+
+labeled size: 138
+unlabeled size: 670
+
+#### caipi iteration 49 ####
+
+Wrong (W)
+
+fp rate: 0.25
+fn rate: 0.21678321678321677
+precision: 0.7320261437908496
+recall: 0.7832167832167832
+accuracy: 0.7654723127035831
+
+correct ces positive class: 0.11320754716981132 (n=53)
+correct ces negative class: 0.3191489361702128 (n=47)
+
+labeled size: 139
+unlabeled size: 669
+
+#### caipi iteration 50 ####
+
+Wrong (W)
+
+fp rate: 0.25
+fn rate: 0.20279720279720279
+precision: 0.7354838709677419
+recall: 0.7972027972027972
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.0 (n=44)
+correct ces negative class: 0.2857142857142857 (n=56)
+
+labeled size: 140
+unlabeled size: 668
+
+#### caipi iteration 51 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2682926829268293
+fn rate: 0.1888111888111888
+precision: 0.725
+recall: 0.8111888111888111
+accuracy: 0.7687296416938111
+
+correct ces positive class: 0.10909090909090909 (n=55)
+correct ces negative class: 0.37777777777777777 (n=45)
+
+labeled size: 146
+unlabeled size: 667
+
+#### caipi iteration 52 ####
+
+Wrong (W)
+
+fp rate: 0.23780487804878048
+fn rate: 0.22377622377622378
+precision: 0.74
+recall: 0.7762237762237763
+accuracy: 0.7687296416938111
+
+correct ces positive class: 0.02040816326530612 (n=49)
+correct ces negative class: 0.29411764705882354 (n=51)
+
+labeled size: 147
+unlabeled size: 666
+
+#### caipi iteration 53 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.25609756097560976
+fn rate: 0.23076923076923078
+precision: 0.7236842105263158
+recall: 0.7692307692307693
+accuracy: 0.755700325732899
+
+correct ces positive class: 0.11363636363636363 (n=44)
+correct ces negative class: 0.21428571428571427 (n=56)
+
+labeled size: 153
+unlabeled size: 665
+
+#### caipi iteration 54 ####
+
+Wrong (W)
+
+fp rate: 0.25609756097560976
+fn rate: 0.2097902097902098
+precision: 0.7290322580645161
+recall: 0.7902097902097902
+accuracy: 0.7654723127035831
+
+correct ces positive class: 0.021739130434782608 (n=46)
+correct ces negative class: 0.2037037037037037 (n=54)
+
+labeled size: 154
+unlabeled size: 664
+
+#### caipi iteration 55 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.24390243902439024
+fn rate: 0.2097902097902098
+precision: 0.738562091503268
+recall: 0.7902097902097902
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.0625 (n=48)
+correct ces negative class: 0.34615384615384615 (n=52)
+
+labeled size: 160
+unlabeled size: 663
+
+#### caipi iteration 56 ####
+
+Wrong (W)
+
+fp rate: 0.24390243902439024
+fn rate: 0.2097902097902098
+precision: 0.738562091503268
+recall: 0.7902097902097902
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.09803921568627451 (n=51)
+correct ces negative class: 0.3673469387755102 (n=49)
+
+labeled size: 161
+unlabeled size: 662
+
+#### caipi iteration 57 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23170731707317074
+fn rate: 0.23076923076923078
+precision: 0.7432432432432432
+recall: 0.7692307692307693
+accuracy: 0.7687296416938111
+
+correct ces positive class: 0.0784313725490196 (n=51)
+correct ces negative class: 0.5102040816326531 (n=49)
+
+labeled size: 167
+unlabeled size: 661
+
+#### caipi iteration 58 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.24390243902439024
+fn rate: 0.23076923076923078
+precision: 0.7333333333333333
+recall: 0.7692307692307693
+accuracy: 0.762214983713355
+
+correct ces positive class: 0.15217391304347827 (n=46)
+correct ces negative class: 0.3148148148148148 (n=54)
+
+labeled size: 173
+unlabeled size: 660
+
+#### caipi iteration 59 ####
+
+Wrong (W)
+
+fp rate: 0.23170731707317074
+fn rate: 0.24475524475524477
+precision: 0.7397260273972602
+recall: 0.7552447552447552
+accuracy: 0.762214983713355
+
+correct ces positive class: 0.0784313725490196 (n=51)
+correct ces negative class: 0.2857142857142857 (n=49)
+
+labeled size: 174
+unlabeled size: 659
+
+#### caipi iteration 60 ####
+
+Wrong (W)
+
+fp rate: 0.23170731707317074
+fn rate: 0.2097902097902098
+precision: 0.7483443708609272
+recall: 0.7902097902097902
+accuracy: 0.7785016286644951
+
+correct ces positive class: 0.08 (n=50)
+correct ces negative class: 0.48 (n=50)
+
+labeled size: 175
+unlabeled size: 658
+
+#### caipi iteration 61 ####
+
+Wrong (W)
+
+fp rate: 0.23170731707317074
+fn rate: 0.20279720279720279
+precision: 0.75
+recall: 0.7972027972027972
+accuracy: 0.7817589576547231
+
+correct ces positive class: 0.1724137931034483 (n=58)
+correct ces negative class: 0.30952380952380953 (n=42)
+
+labeled size: 176
+unlabeled size: 657
+
+#### caipi iteration 62 ####
+
+Wrong (W)
+
+fp rate: 0.21951219512195122
+fn rate: 0.20279720279720279
+precision: 0.76
+recall: 0.7972027972027972
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.12 (n=50)
+correct ces negative class: 0.32 (n=50)
+
+labeled size: 177
+unlabeled size: 656
+
+#### caipi iteration 63 ####
+
+Wrong (W)
+
+fp rate: 0.21951219512195122
+fn rate: 0.1888111888111888
+precision: 0.7631578947368421
+recall: 0.8111888111888111
+accuracy: 0.7947882736156352
+
+correct ces positive class: 0.12 (n=50)
+correct ces negative class: 0.4 (n=50)
+
+labeled size: 178
+unlabeled size: 655
+
+#### caipi iteration 64 ####
+
+Wrong (W)
+
+fp rate: 0.23170731707317074
+fn rate: 0.16783216783216784
+precision: 0.7579617834394905
+recall: 0.8321678321678322
+accuracy: 0.7980456026058632
+
+correct ces positive class: 0.0975609756097561 (n=41)
+correct ces negative class: 0.423728813559322 (n=59)
+
+labeled size: 179
+unlabeled size: 654
+
+#### caipi iteration 65 ####
+
+Wrong (W)
+
+fp rate: 0.22560975609756098
+fn rate: 0.17482517482517482
+precision: 0.7612903225806451
+recall: 0.8251748251748252
+accuracy: 0.7980456026058632
+
+correct ces positive class: 0.1111111111111111 (n=45)
+correct ces negative class: 0.43636363636363634 (n=55)
+
+labeled size: 180
+unlabeled size: 653
+
+#### caipi iteration 66 ####
+
+Wrong (W)
+
+fp rate: 0.21951219512195122
+fn rate: 0.16783216783216784
+precision: 0.7677419354838709
+recall: 0.8321678321678322
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.22448979591836735 (n=49)
+correct ces negative class: 0.39215686274509803 (n=51)
+
+labeled size: 181
+unlabeled size: 652
+
+#### caipi iteration 67 ####
+
+Wrong (W)
+
+fp rate: 0.21951219512195122
+fn rate: 0.16783216783216784
+precision: 0.7677419354838709
+recall: 0.8321678321678322
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.11320754716981132 (n=53)
+correct ces negative class: 0.23404255319148937 (n=47)
+
+labeled size: 182
+unlabeled size: 651
+
+#### caipi iteration 68 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21951219512195122
+fn rate: 0.17482517482517482
+precision: 0.7662337662337663
+recall: 0.8251748251748252
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.13725490196078433 (n=51)
+correct ces negative class: 0.3673469387755102 (n=49)
+
+labeled size: 188
+unlabeled size: 650
+
+#### caipi iteration 69 ####
+
+Wrong (W)
+
+fp rate: 0.21951219512195122
+fn rate: 0.17482517482517482
+precision: 0.7662337662337663
+recall: 0.8251748251748252
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.0392156862745098 (n=51)
+correct ces negative class: 0.40816326530612246 (n=49)
+
+labeled size: 189
+unlabeled size: 649
+
+#### caipi iteration 70 ####
+
+Wrong (W)
+
+fp rate: 0.23170731707317074
+fn rate: 0.17482517482517482
+precision: 0.7564102564102564
+recall: 0.8251748251748252
+accuracy: 0.7947882736156352
+
+correct ces positive class: 0.10638297872340426 (n=47)
+correct ces negative class: 0.2641509433962264 (n=53)
+
+labeled size: 190
+unlabeled size: 648
+
+#### caipi iteration 71 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23780487804878048
+fn rate: 0.17482517482517482
+precision: 0.7515923566878981
+recall: 0.8251748251748252
+accuracy: 0.7915309446254072
+
+correct ces positive class: 0.15217391304347827 (n=46)
+correct ces negative class: 0.3148148148148148 (n=54)
+
+labeled size: 196
+unlabeled size: 647
+
+#### caipi iteration 72 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23780487804878048
+fn rate: 0.17482517482517482
+precision: 0.7515923566878981
+recall: 0.8251748251748252
+accuracy: 0.7915309446254072
+
+correct ces positive class: 0.046511627906976744 (n=43)
+correct ces negative class: 0.43859649122807015 (n=57)
+
+labeled size: 202
+unlabeled size: 646
+
+#### caipi iteration 73 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23780487804878048
+fn rate: 0.17482517482517482
+precision: 0.7515923566878981
+recall: 0.8251748251748252
+accuracy: 0.7915309446254072
+
+correct ces positive class: 0.08695652173913043 (n=46)
+correct ces negative class: 0.46296296296296297 (n=54)
+
+labeled size: 208
+unlabeled size: 645
+
+#### caipi iteration 74 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23780487804878048
+fn rate: 0.17482517482517482
+precision: 0.7515923566878981
+recall: 0.8251748251748252
+accuracy: 0.7915309446254072
+
+correct ces positive class: 0.10869565217391304 (n=46)
+correct ces negative class: 0.42592592592592593 (n=54)
+
+labeled size: 214
+unlabeled size: 644
+
+#### caipi iteration 75 ####
+
+Wrong (W)
+
+fp rate: 0.23780487804878048
+fn rate: 0.17482517482517482
+precision: 0.7515923566878981
+recall: 0.8251748251748252
+accuracy: 0.7915309446254072
+
+correct ces positive class: 0.0851063829787234 (n=47)
+correct ces negative class: 0.2830188679245283 (n=53)
+
+labeled size: 215
+unlabeled size: 643
+
+#### caipi iteration 76 ####
+
+Wrong (W)
+
+fp rate: 0.22560975609756098
+fn rate: 0.1958041958041958
+precision: 0.756578947368421
+recall: 0.8041958041958042
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.14 (n=50)
+correct ces negative class: 0.48 (n=50)
+
+labeled size: 216
+unlabeled size: 642
+
+#### caipi iteration 77 ####
+
+Wrong (W)
+
+fp rate: 0.23170731707317074
+fn rate: 0.18181818181818182
+precision: 0.7548387096774194
+recall: 0.8181818181818182
+accuracy: 0.7915309446254072
+
+correct ces positive class: 0.16326530612244897 (n=49)
+correct ces negative class: 0.47058823529411764 (n=51)
+
+labeled size: 217
+unlabeled size: 641
+
+#### caipi iteration 78 ####
+
+Wrong (W)
+
+fp rate: 0.23170731707317074
+fn rate: 0.2097902097902098
+precision: 0.7483443708609272
+recall: 0.7902097902097902
+accuracy: 0.7785016286644951
+
+correct ces positive class: 0.03773584905660377 (n=53)
+correct ces negative class: 0.3404255319148936 (n=47)
+
+labeled size: 218
+unlabeled size: 640
+
+#### caipi iteration 79 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23170731707317074
+fn rate: 0.1958041958041958
+precision: 0.7516339869281046
+recall: 0.8041958041958042
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.07142857142857142 (n=42)
+correct ces negative class: 0.4827586206896552 (n=58)
+
+labeled size: 224
+unlabeled size: 639
+
+#### caipi iteration 80 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23170731707317074
+fn rate: 0.20279720279720279
+precision: 0.75
+recall: 0.7972027972027972
+accuracy: 0.7817589576547231
+
+correct ces positive class: 0.14285714285714285 (n=42)
+correct ces negative class: 0.4827586206896552 (n=58)
+
+labeled size: 230
+unlabeled size: 638
+
+#### caipi iteration 81 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23170731707317074
+fn rate: 0.1958041958041958
+precision: 0.7516339869281046
+recall: 0.8041958041958042
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.11363636363636363 (n=44)
+correct ces negative class: 0.3392857142857143 (n=56)
+
+labeled size: 236
+unlabeled size: 637
+
+#### caipi iteration 82 ####
+
+Wrong (W)
+
+fp rate: 0.23170731707317074
+fn rate: 0.1958041958041958
+precision: 0.7516339869281046
+recall: 0.8041958041958042
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.16071428571428573 (n=56)
+correct ces negative class: 0.38636363636363635 (n=44)
+
+labeled size: 237
+unlabeled size: 636
+
+#### caipi iteration 83 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23170731707317074
+fn rate: 0.1958041958041958
+precision: 0.7516339869281046
+recall: 0.8041958041958042
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.22727272727272727 (n=44)
+correct ces negative class: 0.4107142857142857 (n=56)
+
+labeled size: 243
+unlabeled size: 635
+
+#### caipi iteration 84 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.22560975609756098
+fn rate: 0.20279720279720279
+precision: 0.7549668874172185
+recall: 0.7972027972027972
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.16981132075471697 (n=53)
+correct ces negative class: 0.5106382978723404 (n=47)
+
+labeled size: 244
+unlabeled size: 634
+
+#### caipi iteration 85 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22560975609756098
+fn rate: 0.20279720279720279
+precision: 0.7549668874172185
+recall: 0.7972027972027972
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.1590909090909091 (n=44)
+correct ces negative class: 0.4642857142857143 (n=56)
+
+labeled size: 250
+unlabeled size: 633
+
+#### caipi iteration 86 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22560975609756098
+fn rate: 0.20279720279720279
+precision: 0.7549668874172185
+recall: 0.7972027972027972
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.04878048780487805 (n=41)
+correct ces negative class: 0.4915254237288136 (n=59)
+
+labeled size: 256
+unlabeled size: 632
+
+#### caipi iteration 87 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22560975609756098
+fn rate: 0.20279720279720279
+precision: 0.7549668874172185
+recall: 0.7972027972027972
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.09090909090909091 (n=44)
+correct ces negative class: 0.42857142857142855 (n=56)
+
+labeled size: 262
+unlabeled size: 631
+
+#### caipi iteration 88 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22560975609756098
+fn rate: 0.20279720279720279
+precision: 0.7549668874172185
+recall: 0.7972027972027972
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.11363636363636363 (n=44)
+correct ces negative class: 0.4642857142857143 (n=56)
+
+labeled size: 268
+unlabeled size: 630
+
+#### caipi iteration 89 ####
+
+Wrong (W)
+
+fp rate: 0.22560975609756098
+fn rate: 0.20279720279720279
+precision: 0.7549668874172185
+recall: 0.7972027972027972
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.09433962264150944 (n=53)
+correct ces negative class: 0.44680851063829785 (n=47)
+
+labeled size: 269
+unlabeled size: 629
+
+#### caipi iteration 90 ####
+
+Wrong (W)
+
+fp rate: 0.22560975609756098
+fn rate: 0.1958041958041958
+precision: 0.756578947368421
+recall: 0.8041958041958042
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.14 (n=50)
+correct ces negative class: 0.42 (n=50)
+
+labeled size: 270
+unlabeled size: 628
+
+#### caipi iteration 91 ####
+
+Wrong (W)
+
+fp rate: 0.21951219512195122
+fn rate: 0.1958041958041958
+precision: 0.7615894039735099
+recall: 0.8041958041958042
+accuracy: 0.7915309446254072
+
+correct ces positive class: 0.12244897959183673 (n=49)
+correct ces negative class: 0.43137254901960786 (n=51)
+
+labeled size: 271
+unlabeled size: 627
+
+#### caipi iteration 92 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21951219512195122
+fn rate: 0.20279720279720279
+precision: 0.76
+recall: 0.7972027972027972
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.17777777777777778 (n=45)
+correct ces negative class: 0.32727272727272727 (n=55)
+
+labeled size: 277
+unlabeled size: 626
+
+#### caipi iteration 93 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21951219512195122
+fn rate: 0.20279720279720279
+precision: 0.76
+recall: 0.7972027972027972
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.08888888888888889 (n=45)
+correct ces negative class: 0.45454545454545453 (n=55)
+
+labeled size: 283
+unlabeled size: 625
+
+#### caipi iteration 94 ####
+
+Wrong (W)
+
+fp rate: 0.21951219512195122
+fn rate: 0.20279720279720279
+precision: 0.76
+recall: 0.7972027972027972
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.17391304347826086 (n=46)
+correct ces negative class: 0.4074074074074074 (n=54)
+
+labeled size: 284
+unlabeled size: 624
+
+#### caipi iteration 95 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21951219512195122
+fn rate: 0.20279720279720279
+precision: 0.76
+recall: 0.7972027972027972
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.2 (n=45)
+correct ces negative class: 0.43636363636363634 (n=55)
+
+labeled size: 290
+unlabeled size: 623
+
+#### caipi iteration 96 ####
+
+Wrong (W)
+
+fp rate: 0.21951219512195122
+fn rate: 0.20279720279720279
+precision: 0.76
+recall: 0.7972027972027972
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.08695652173913043 (n=46)
+correct ces negative class: 0.3888888888888889 (n=54)
+
+labeled size: 291
+unlabeled size: 622
+
+#### caipi iteration 97 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21951219512195122
+fn rate: 0.2097902097902098
+precision: 0.7583892617449665
+recall: 0.7902097902097902
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.09090909090909091 (n=44)
+correct ces negative class: 0.4642857142857143 (n=56)
+
+labeled size: 297
+unlabeled size: 621
+
+#### caipi iteration 98 ####
+
+Wrong (W)
+
+fp rate: 0.21951219512195122
+fn rate: 0.2097902097902098
+precision: 0.7583892617449665
+recall: 0.7902097902097902
+accuracy: 0.7850162866449512
+
+correct ces positive class: 0.09302325581395349 (n=43)
+correct ces negative class: 0.3684210526315789 (n=57)
+
+labeled size: 298
+unlabeled size: 620
+
+#### caipi iteration 99 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21951219512195122
+fn rate: 0.22377622377622378
+precision: 0.7551020408163265
+recall: 0.7762237762237763
+accuracy: 0.7785016286644951
+
+correct ces positive class: 0.21428571428571427 (n=42)
+correct ces negative class: 0.43103448275862066 (n=58)
+
+labeled size: 304
+unlabeled size: 619
+
+#### caipi iteration 100 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.21951219512195122
+fn rate: 0.22377622377622378
+precision: 0.7551020408163265
+recall: 0.7762237762237763
+accuracy: 0.7785016286644951
+
+correct ces positive class: 0.08695652173913043 (n=46)
+correct ces negative class: 0.4074074074074074 (n=54)
+
+labeled size: 305
+unlabeled size: 618
+
+#### end experimental iteration 3 ####
+
+#### start experimental iteration 4 ####
+
+#### caipi iteration 1 ####
+
+Wrong (W)
+
+fp rate: 0.39473684210526316
+fn rate: 0.8709677419354839
+precision: 0.25
+recall: 0.12903225806451613
+accuracy: 0.36482084690553745
+
+correct ces positive class: 0.2 (n=20)
+correct ces negative class: 0.2 (n=80)
+
+labeled size: 11
+unlabeled size: 717
+
+#### caipi iteration 2 ####
+
+Wrong (W)
+
+fp rate: 0.5657894736842105
+fn rate: 0.6709677419354839
+precision: 0.3722627737226277
+recall: 0.32903225806451614
+accuracy: 0.3811074918566775
+
+correct ces positive class: 0.19047619047619047 (n=42)
+correct ces negative class: 0.13793103448275862 (n=58)
+
+labeled size: 12
+unlabeled size: 716
+
+#### caipi iteration 3 ####
+
+Wrong (W)
+
+fp rate: 0.5657894736842105
+fn rate: 0.5161290322580645
+precision: 0.4658385093167702
+recall: 0.4838709677419355
+accuracy: 0.4592833876221498
+
+correct ces positive class: 0.061224489795918366 (n=49)
+correct ces negative class: 0.23529411764705882 (n=51)
+
+labeled size: 13
+unlabeled size: 715
+
+#### caipi iteration 4 ####
+
+Wrong (W)
+
+fp rate: 0.618421052631579
+fn rate: 0.41935483870967744
+precision: 0.4891304347826087
+recall: 0.5806451612903226
+accuracy: 0.4820846905537459
+
+correct ces positive class: 0.09836065573770492 (n=61)
+correct ces negative class: 0.23076923076923078 (n=39)
+
+labeled size: 14
+unlabeled size: 714
+
+#### caipi iteration 5 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.7894736842105263
+fn rate: 0.32903225806451614
+precision: 0.4642857142857143
+recall: 0.6709677419354839
+accuracy: 0.44299674267100975
+
+correct ces positive class: 0.11538461538461539 (n=78)
+correct ces negative class: 0.09090909090909091 (n=22)
+
+labeled size: 20
+unlabeled size: 713
+
+#### caipi iteration 6 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.6907894736842105
+fn rate: 0.2903225806451613
+precision: 0.5116279069767442
+recall: 0.7096774193548387
+accuracy: 0.511400651465798
+
+correct ces positive class: 0.2463768115942029 (n=69)
+correct ces negative class: 0.0967741935483871 (n=31)
+
+labeled size: 26
+unlabeled size: 712
+
+#### caipi iteration 7 ####
+
+Wrong (W)
+
+fp rate: 0.39473684210526316
+fn rate: 0.4967741935483871
+precision: 0.5652173913043478
+recall: 0.5032258064516129
+accuracy: 0.5537459283387622
+
+correct ces positive class: 0.10204081632653061 (n=49)
+correct ces negative class: 0.21568627450980393 (n=51)
+
+labeled size: 27
+unlabeled size: 711
+
+#### caipi iteration 8 ####
+
+Wrong (W)
+
+fp rate: 0.4342105263157895
+fn rate: 0.45161290322580644
+precision: 0.5629139072847682
+recall: 0.5483870967741935
+accuracy: 0.5570032573289903
+
+correct ces positive class: 0.1568627450980392 (n=51)
+correct ces negative class: 0.42857142857142855 (n=49)
+
+labeled size: 28
+unlabeled size: 710
+
+#### caipi iteration 9 ####
+
+Wrong (W)
+
+fp rate: 0.40789473684210525
+fn rate: 0.4258064516129032
+precision: 0.5894039735099338
+recall: 0.5741935483870968
+accuracy: 0.5830618892508144
+
+correct ces positive class: 0.13636363636363635 (n=44)
+correct ces negative class: 0.44642857142857145 (n=56)
+
+labeled size: 29
+unlabeled size: 709
+
+#### caipi iteration 10 ####
+
+Wrong (W)
+
+fp rate: 0.4407894736842105
+fn rate: 0.34838709677419355
+precision: 0.6011904761904762
+recall: 0.6516129032258065
+accuracy: 0.6058631921824105
+
+correct ces positive class: 0.14 (n=50)
+correct ces negative class: 0.28 (n=50)
+
+labeled size: 30
+unlabeled size: 708
+
+#### caipi iteration 11 ####
+
+Wrong (W)
+
+fp rate: 0.4605263157894737
+fn rate: 0.2838709677419355
+precision: 0.6132596685082873
+recall: 0.7161290322580646
+accuracy: 0.6286644951140065
+
+correct ces positive class: 0.18032786885245902 (n=61)
+correct ces negative class: 0.28205128205128205 (n=39)
+
+labeled size: 31
+unlabeled size: 707
+
+#### caipi iteration 12 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.5197368421052632
+fn rate: 0.2967741935483871
+precision: 0.5797872340425532
+recall: 0.7032258064516129
+accuracy: 0.5928338762214984
+
+correct ces positive class: 0.3 (n=60)
+correct ces negative class: 0.275 (n=40)
+
+labeled size: 37
+unlabeled size: 706
+
+#### caipi iteration 13 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.5328947368421053
+fn rate: 0.23225806451612904
+precision: 0.595
+recall: 0.7677419354838709
+accuracy: 0.6188925081433225
+
+correct ces positive class: 0.26153846153846155 (n=65)
+correct ces negative class: 0.2 (n=35)
+
+labeled size: 43
+unlabeled size: 705
+
+#### caipi iteration 14 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.6118421052631579
+fn rate: 0.18064516129032257
+precision: 0.5772727272727273
+recall: 0.8193548387096774
+accuracy: 0.6058631921824105
+
+correct ces positive class: 0.19696969696969696 (n=66)
+correct ces negative class: 0.29411764705882354 (n=34)
+
+labeled size: 49
+unlabeled size: 704
+
+#### caipi iteration 15 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.506578947368421
+fn rate: 0.2129032258064516
+precision: 0.6130653266331658
+recall: 0.7870967741935484
+accuracy: 0.6416938110749185
+
+correct ces positive class: 0.21875 (n=64)
+correct ces negative class: 0.4166666666666667 (n=36)
+
+labeled size: 55
+unlabeled size: 703
+
+#### caipi iteration 16 ####
+
+Wrong (W)
+
+fp rate: 0.5263157894736842
+fn rate: 0.16129032258064516
+precision: 0.6190476190476191
+recall: 0.8387096774193549
+accuracy: 0.6579804560260586
+
+correct ces positive class: 0.23076923076923078 (n=65)
+correct ces negative class: 0.2 (n=35)
+
+labeled size: 56
+unlabeled size: 702
+
+#### caipi iteration 17 ####
+
+Wrong (W)
+
+fp rate: 0.5197368421052632
+fn rate: 0.17419354838709677
+precision: 0.6183574879227053
+recall: 0.8258064516129032
+accuracy: 0.6547231270358306
+
+correct ces positive class: 0.265625 (n=64)
+correct ces negative class: 0.1388888888888889 (n=36)
+
+labeled size: 57
+unlabeled size: 701
+
+#### caipi iteration 18 ####
+
+Wrong (W)
+
+fp rate: 0.5328947368421053
+fn rate: 0.16129032258064516
+precision: 0.6161137440758294
+recall: 0.8387096774193549
+accuracy: 0.6547231270358306
+
+correct ces positive class: 0.22727272727272727 (n=66)
+correct ces negative class: 0.35294117647058826 (n=34)
+
+labeled size: 58
+unlabeled size: 700
+
+#### caipi iteration 19 ####
+
+Wrong (W)
+
+fp rate: 0.5328947368421053
+fn rate: 0.14838709677419354
+precision: 0.6197183098591549
+recall: 0.8516129032258064
+accuracy: 0.6612377850162866
+
+correct ces positive class: 0.2537313432835821 (n=67)
+correct ces negative class: 0.18181818181818182 (n=33)
+
+labeled size: 59
+unlabeled size: 699
+
+#### caipi iteration 20 ####
+
+Wrong (W)
+
+fp rate: 0.625
+fn rate: 0.12258064516129032
+precision: 0.5887445887445888
+recall: 0.8774193548387097
+accuracy: 0.6286644951140065
+
+correct ces positive class: 0.22058823529411764 (n=68)
+correct ces negative class: 0.25 (n=32)
+
+labeled size: 60
+unlabeled size: 698
+
+#### caipi iteration 21 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.5526315789473685
+fn rate: 0.16129032258064516
+precision: 0.6074766355140186
+recall: 0.8387096774193549
+accuracy: 0.6449511400651465
+
+correct ces positive class: 0.26666666666666666 (n=60)
+correct ces negative class: 0.275 (n=40)
+
+labeled size: 66
+unlabeled size: 697
+
+#### caipi iteration 22 ####
+
+Wrong (W)
+
+fp rate: 0.5
+fn rate: 0.14193548387096774
+precision: 0.6363636363636364
+recall: 0.8580645161290322
+accuracy: 0.6807817589576547
+
+correct ces positive class: 0.234375 (n=64)
+correct ces negative class: 0.3611111111111111 (n=36)
+
+labeled size: 67
+unlabeled size: 696
+
+#### caipi iteration 23 ####
+
+Wrong (W)
+
+fp rate: 0.48026315789473684
+fn rate: 0.16129032258064516
+precision: 0.6403940886699507
+recall: 0.8387096774193549
+accuracy: 0.6807817589576547
+
+correct ces positive class: 0.31666666666666665 (n=60)
+correct ces negative class: 0.325 (n=40)
+
+labeled size: 68
+unlabeled size: 695
+
+#### caipi iteration 24 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.506578947368421
+fn rate: 0.13548387096774195
+precision: 0.6350710900473934
+recall: 0.864516129032258
+accuracy: 0.6807817589576547
+
+correct ces positive class: 0.3484848484848485 (n=66)
+correct ces negative class: 0.23529411764705882 (n=34)
+
+labeled size: 74
+unlabeled size: 694
+
+#### caipi iteration 25 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.48026315789473684
+fn rate: 0.1032258064516129
+precision: 0.6556603773584906
+recall: 0.896774193548387
+accuracy: 0.7100977198697068
+
+correct ces positive class: 0.29577464788732394 (n=71)
+correct ces negative class: 0.3103448275862069 (n=29)
+
+labeled size: 80
+unlabeled size: 693
+
+#### caipi iteration 26 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.375
+fn rate: 0.13548387096774195
+precision: 0.7015706806282722
+recall: 0.864516129032258
+accuracy: 0.745928338762215
+
+correct ces positive class: 0.24615384615384617 (n=65)
+correct ces negative class: 0.45714285714285713 (n=35)
+
+labeled size: 86
+unlabeled size: 692
+
+#### caipi iteration 27 ####
+
+Wrong (W)
+
+fp rate: 0.16447368421052633
+fn rate: 0.18064516129032257
+precision: 0.8355263157894737
+recall: 0.8193548387096774
+accuracy: 0.8273615635179153
+
+correct ces positive class: 0.1836734693877551 (n=49)
+correct ces negative class: 0.23529411764705882 (n=51)
+
+labeled size: 87
+unlabeled size: 691
+
+#### caipi iteration 28 ####
+
+Wrong (W)
+
+fp rate: 0.17105263157894737
+fn rate: 0.14838709677419354
+precision: 0.8354430379746836
+recall: 0.8516129032258064
+accuracy: 0.8403908794788274
+
+correct ces positive class: 0.2 (n=60)
+correct ces negative class: 0.475 (n=40)
+
+labeled size: 88
+unlabeled size: 690
+
+#### caipi iteration 29 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.16447368421052633
+fn rate: 0.14193548387096774
+precision: 0.8417721518987342
+recall: 0.8580645161290322
+accuracy: 0.8469055374592834
+
+correct ces positive class: 0.19230769230769232 (n=52)
+correct ces negative class: 0.3333333333333333 (n=48)
+
+labeled size: 89
+unlabeled size: 689
+
+#### caipi iteration 30 ####
+
+Wrong (W)
+
+fp rate: 0.21052631578947367
+fn rate: 0.15483870967741936
+precision: 0.803680981595092
+recall: 0.8451612903225807
+accuracy: 0.8175895765472313
+
+correct ces positive class: 0.25925925925925924 (n=54)
+correct ces negative class: 0.32608695652173914 (n=46)
+
+labeled size: 90
+unlabeled size: 688
+
+#### caipi iteration 31 ####
+
+Wrong (W)
+
+fp rate: 0.19078947368421054
+fn rate: 0.14193548387096774
+precision: 0.8209876543209876
+recall: 0.8580645161290322
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.2777777777777778 (n=54)
+correct ces negative class: 0.2608695652173913 (n=46)
+
+labeled size: 91
+unlabeled size: 687
+
+#### caipi iteration 32 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.18421052631578946
+fn rate: 0.13548387096774195
+precision: 0.8271604938271605
+recall: 0.864516129032258
+accuracy: 0.8403908794788274
+
+correct ces positive class: 0.2909090909090909 (n=55)
+correct ces negative class: 0.17777777777777778 (n=45)
+
+labeled size: 92
+unlabeled size: 686
+
+#### caipi iteration 33 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.17763157894736842
+fn rate: 0.12903225806451613
+precision: 0.8333333333333334
+recall: 0.8709677419354839
+accuracy: 0.8469055374592834
+
+correct ces positive class: 0.22 (n=50)
+correct ces negative class: 0.32 (n=50)
+
+labeled size: 98
+unlabeled size: 685
+
+#### caipi iteration 34 ####
+
+Wrong (W)
+
+fp rate: 0.17105263157894737
+fn rate: 0.14838709677419354
+precision: 0.8354430379746836
+recall: 0.8516129032258064
+accuracy: 0.8403908794788274
+
+correct ces positive class: 0.3333333333333333 (n=54)
+correct ces negative class: 0.2608695652173913 (n=46)
+
+labeled size: 99
+unlabeled size: 684
+
+#### caipi iteration 35 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.17763157894736842
+fn rate: 0.14838709677419354
+precision: 0.8301886792452831
+recall: 0.8516129032258064
+accuracy: 0.8371335504885994
+
+correct ces positive class: 0.25 (n=52)
+correct ces negative class: 0.20833333333333334 (n=48)
+
+labeled size: 105
+unlabeled size: 683
+
+#### caipi iteration 36 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.14838709677419354
+precision: 0.8198757763975155
+recall: 0.8516129032258064
+accuracy: 0.8306188925081434
+
+correct ces positive class: 0.2222222222222222 (n=54)
+correct ces negative class: 0.30434782608695654 (n=46)
+
+labeled size: 111
+unlabeled size: 682
+
+#### caipi iteration 37 ####
+
+Wrong (W)
+
+fp rate: 0.18421052631578946
+fn rate: 0.11612903225806452
+precision: 0.8303030303030303
+recall: 0.8838709677419355
+accuracy: 0.8501628664495114
+
+correct ces positive class: 0.22 (n=50)
+correct ces negative class: 0.2 (n=50)
+
+labeled size: 112
+unlabeled size: 681
+
+#### caipi iteration 38 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.17763157894736842
+fn rate: 0.11612903225806452
+precision: 0.8353658536585366
+recall: 0.8838709677419355
+accuracy: 0.8534201954397395
+
+correct ces positive class: 0.32 (n=50)
+correct ces negative class: 0.24 (n=50)
+
+labeled size: 118
+unlabeled size: 680
+
+#### caipi iteration 39 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.17763157894736842
+fn rate: 0.1032258064516129
+precision: 0.8373493975903614
+recall: 0.896774193548387
+accuracy: 0.8599348534201955
+
+correct ces positive class: 0.4 (n=55)
+correct ces negative class: 0.24444444444444444 (n=45)
+
+labeled size: 124
+unlabeled size: 679
+
+#### caipi iteration 40 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.17105263157894737
+fn rate: 0.10967741935483871
+precision: 0.8414634146341463
+recall: 0.8903225806451613
+accuracy: 0.8599348534201955
+
+correct ces positive class: 0.4423076923076923 (n=52)
+correct ces negative class: 0.25 (n=48)
+
+labeled size: 125
+unlabeled size: 678
+
+#### caipi iteration 41 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.17105263157894737
+fn rate: 0.11612903225806452
+precision: 0.8404907975460123
+recall: 0.8838709677419355
+accuracy: 0.8566775244299675
+
+correct ces positive class: 0.3050847457627119 (n=59)
+correct ces negative class: 0.5121951219512195 (n=41)
+
+labeled size: 131
+unlabeled size: 677
+
+#### caipi iteration 42 ####
+
+Wrong (W)
+
+fp rate: 0.16447368421052633
+fn rate: 0.12258064516129032
+precision: 0.84472049689441
+recall: 0.8774193548387097
+accuracy: 0.8566775244299675
+
+correct ces positive class: 0.2857142857142857 (n=56)
+correct ces negative class: 0.29545454545454547 (n=44)
+
+labeled size: 132
+unlabeled size: 676
+
+#### caipi iteration 43 ####
+
+Wrong (W)
+
+fp rate: 0.17763157894736842
+fn rate: 0.1032258064516129
+precision: 0.8373493975903614
+recall: 0.896774193548387
+accuracy: 0.8599348534201955
+
+correct ces positive class: 0.32142857142857145 (n=56)
+correct ces negative class: 0.3409090909090909 (n=44)
+
+labeled size: 133
+unlabeled size: 675
+
+#### caipi iteration 44 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.17763157894736842
+fn rate: 0.10967741935483871
+precision: 0.8363636363636363
+recall: 0.8903225806451613
+accuracy: 0.8566775244299675
+
+correct ces positive class: 0.37037037037037035 (n=54)
+correct ces negative class: 0.4782608695652174 (n=46)
+
+labeled size: 139
+unlabeled size: 674
+
+#### caipi iteration 45 ####
+
+Wrong (W)
+
+fp rate: 0.17105263157894737
+fn rate: 0.10967741935483871
+precision: 0.8414634146341463
+recall: 0.8903225806451613
+accuracy: 0.8599348534201955
+
+correct ces positive class: 0.3584905660377358 (n=53)
+correct ces negative class: 0.40425531914893614 (n=47)
+
+labeled size: 140
+unlabeled size: 673
+
+#### caipi iteration 46 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.17105263157894737
+fn rate: 0.11612903225806452
+precision: 0.8404907975460123
+recall: 0.8838709677419355
+accuracy: 0.8566775244299675
+
+correct ces positive class: 0.26 (n=50)
+correct ces negative class: 0.46 (n=50)
+
+labeled size: 146
+unlabeled size: 672
+
+#### caipi iteration 47 ####
+
+Wrong (W)
+
+fp rate: 0.17763157894736842
+fn rate: 0.11612903225806452
+precision: 0.8353658536585366
+recall: 0.8838709677419355
+accuracy: 0.8534201954397395
+
+correct ces positive class: 0.23404255319148937 (n=47)
+correct ces negative class: 0.33962264150943394 (n=53)
+
+labeled size: 147
+unlabeled size: 671
+
+#### caipi iteration 48 ####
+
+Wrong (W)
+
+fp rate: 0.17105263157894737
+fn rate: 0.12903225806451613
+precision: 0.8385093167701864
+recall: 0.8709677419354839
+accuracy: 0.8501628664495114
+
+correct ces positive class: 0.1956521739130435 (n=46)
+correct ces negative class: 0.35185185185185186 (n=54)
+
+labeled size: 148
+unlabeled size: 670
+
+#### caipi iteration 49 ####
+
+Wrong (W)
+
+fp rate: 0.17105263157894737
+fn rate: 0.12903225806451613
+precision: 0.8385093167701864
+recall: 0.8709677419354839
+accuracy: 0.8501628664495114
+
+correct ces positive class: 0.13043478260869565 (n=46)
+correct ces negative class: 0.3888888888888889 (n=54)
+
+labeled size: 149
+unlabeled size: 669
+
+#### caipi iteration 50 ####
+
+Wrong (W)
+
+fp rate: 0.17763157894736842
+fn rate: 0.12258064516129032
+precision: 0.8343558282208589
+recall: 0.8774193548387097
+accuracy: 0.8501628664495114
+
+correct ces positive class: 0.20833333333333334 (n=48)
+correct ces negative class: 0.4230769230769231 (n=52)
+
+labeled size: 150
+unlabeled size: 668
+
+#### caipi iteration 51 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.2727272727272727 (n=55)
+correct ces negative class: 0.4 (n=45)
+
+labeled size: 156
+unlabeled size: 667
+
+#### caipi iteration 52 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.3103448275862069 (n=58)
+correct ces negative class: 0.47619047619047616 (n=42)
+
+labeled size: 162
+unlabeled size: 666
+
+#### caipi iteration 53 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.2982456140350877 (n=57)
+correct ces negative class: 0.3023255813953488 (n=43)
+
+labeled size: 163
+unlabeled size: 665
+
+#### caipi iteration 54 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.4 (n=50)
+correct ces negative class: 0.4 (n=50)
+
+labeled size: 169
+unlabeled size: 664
+
+#### caipi iteration 55 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.28 (n=50)
+correct ces negative class: 0.44 (n=50)
+
+labeled size: 175
+unlabeled size: 663
+
+#### caipi iteration 56 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.29310344827586204 (n=58)
+correct ces negative class: 0.35714285714285715 (n=42)
+
+labeled size: 181
+unlabeled size: 662
+
+#### caipi iteration 57 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.2807017543859649 (n=57)
+correct ces negative class: 0.32558139534883723 (n=43)
+
+labeled size: 182
+unlabeled size: 661
+
+#### caipi iteration 58 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.26 (n=50)
+correct ces negative class: 0.52 (n=50)
+
+labeled size: 188
+unlabeled size: 660
+
+#### caipi iteration 59 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.21818181818181817 (n=55)
+correct ces negative class: 0.4222222222222222 (n=45)
+
+labeled size: 194
+unlabeled size: 659
+
+#### caipi iteration 60 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.20689655172413793 (n=58)
+correct ces negative class: 0.35714285714285715 (n=42)
+
+labeled size: 200
+unlabeled size: 658
+
+#### caipi iteration 61 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.1896551724137931 (n=58)
+correct ces negative class: 0.38095238095238093 (n=42)
+
+labeled size: 206
+unlabeled size: 657
+
+#### caipi iteration 62 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.15517241379310345 (n=58)
+correct ces negative class: 0.38095238095238093 (n=42)
+
+labeled size: 212
+unlabeled size: 656
+
+#### caipi iteration 63 ####
+
+Wrong (W)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12903225806451613
+precision: 0.823170731707317
+recall: 0.8709677419354839
+accuracy: 0.8403908794788274
+
+correct ces positive class: 0.16071428571428573 (n=56)
+correct ces negative class: 0.3409090909090909 (n=44)
+
+labeled size: 213
+unlabeled size: 655
+
+#### caipi iteration 64 ####
+
+Wrong (W)
+
+fp rate: 0.19078947368421054
+fn rate: 0.12258064516129032
+precision: 0.8242424242424242
+recall: 0.8774193548387097
+accuracy: 0.8436482084690554
+
+correct ces positive class: 0.21052631578947367 (n=57)
+correct ces negative class: 0.4418604651162791 (n=43)
+
+labeled size: 214
+unlabeled size: 654
+
+#### caipi iteration 65 ####
+
+Wrong (W)
+
+fp rate: 0.19736842105263158
+fn rate: 0.12258064516129032
+precision: 0.8192771084337349
+recall: 0.8774193548387097
+accuracy: 0.8403908794788274
+
+correct ces positive class: 0.18 (n=50)
+correct ces negative class: 0.44 (n=50)
+
+labeled size: 215
+unlabeled size: 653
+
+#### caipi iteration 66 ####
+
+Wrong (W)
+
+fp rate: 0.19736842105263158
+fn rate: 0.12258064516129032
+precision: 0.8192771084337349
+recall: 0.8774193548387097
+accuracy: 0.8403908794788274
+
+correct ces positive class: 0.22 (n=50)
+correct ces negative class: 0.46 (n=50)
+
+labeled size: 216
+unlabeled size: 652
+
+#### caipi iteration 67 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.20394736842105263
+fn rate: 0.12258064516129032
+precision: 0.8143712574850299
+recall: 0.8774193548387097
+accuracy: 0.8371335504885994
+
+correct ces positive class: 0.19230769230769232 (n=52)
+correct ces negative class: 0.375 (n=48)
+
+labeled size: 222
+unlabeled size: 651
+
+#### caipi iteration 68 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.20394736842105263
+fn rate: 0.12258064516129032
+precision: 0.8143712574850299
+recall: 0.8774193548387097
+accuracy: 0.8371335504885994
+
+correct ces positive class: 0.23636363636363636 (n=55)
+correct ces negative class: 0.3333333333333333 (n=45)
+
+labeled size: 228
+unlabeled size: 650
+
+#### caipi iteration 69 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.20394736842105263
+fn rate: 0.12258064516129032
+precision: 0.8143712574850299
+recall: 0.8774193548387097
+accuracy: 0.8371335504885994
+
+correct ces positive class: 0.2222222222222222 (n=54)
+correct ces negative class: 0.34782608695652173 (n=46)
+
+labeled size: 229
+unlabeled size: 649
+
+#### caipi iteration 70 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.20394736842105263
+fn rate: 0.12258064516129032
+precision: 0.8143712574850299
+recall: 0.8774193548387097
+accuracy: 0.8371335504885994
+
+correct ces positive class: 0.21818181818181817 (n=55)
+correct ces negative class: 0.28888888888888886 (n=45)
+
+labeled size: 235
+unlabeled size: 648
+
+#### caipi iteration 71 ####
+
+Wrong (W)
+
+fp rate: 0.21052631578947367
+fn rate: 0.12258064516129032
+precision: 0.8095238095238095
+recall: 0.8774193548387097
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.21428571428571427 (n=56)
+correct ces negative class: 0.3181818181818182 (n=44)
+
+labeled size: 236
+unlabeled size: 647
+
+#### caipi iteration 72 ####
+
+Wrong (W)
+
+fp rate: 0.20394736842105263
+fn rate: 0.12258064516129032
+precision: 0.8143712574850299
+recall: 0.8774193548387097
+accuracy: 0.8371335504885994
+
+correct ces positive class: 0.25925925925925924 (n=54)
+correct ces negative class: 0.391304347826087 (n=46)
+
+labeled size: 237
+unlabeled size: 646
+
+#### caipi iteration 73 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.12258064516129032
+precision: 0.8047337278106509
+recall: 0.8774193548387097
+accuracy: 0.8306188925081434
+
+correct ces positive class: 0.2830188679245283 (n=53)
+correct ces negative class: 0.3404255319148936 (n=47)
+
+labeled size: 243
+unlabeled size: 645
+
+#### caipi iteration 74 ####
+
+Wrong (W)
+
+fp rate: 0.21710526315789475
+fn rate: 0.12258064516129032
+precision: 0.8047337278106509
+recall: 0.8774193548387097
+accuracy: 0.8306188925081434
+
+correct ces positive class: 0.23728813559322035 (n=59)
+correct ces negative class: 0.36585365853658536 (n=41)
+
+labeled size: 244
+unlabeled size: 644
+
+#### caipi iteration 75 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.12258064516129032
+precision: 0.8095238095238095
+recall: 0.8774193548387097
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.2033898305084746 (n=59)
+correct ces negative class: 0.2926829268292683 (n=41)
+
+labeled size: 250
+unlabeled size: 643
+
+#### caipi iteration 76 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.12258064516129032
+precision: 0.8095238095238095
+recall: 0.8774193548387097
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.288135593220339 (n=59)
+correct ces negative class: 0.21951219512195122 (n=41)
+
+labeled size: 256
+unlabeled size: 642
+
+#### caipi iteration 77 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.12258064516129032
+precision: 0.8095238095238095
+recall: 0.8774193548387097
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.23728813559322035 (n=59)
+correct ces negative class: 0.34146341463414637 (n=41)
+
+labeled size: 262
+unlabeled size: 641
+
+#### caipi iteration 78 ####
+
+Wrong (W)
+
+fp rate: 0.21052631578947367
+fn rate: 0.12258064516129032
+precision: 0.8095238095238095
+recall: 0.8774193548387097
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.2807017543859649 (n=57)
+correct ces negative class: 0.4186046511627907 (n=43)
+
+labeled size: 263
+unlabeled size: 640
+
+#### caipi iteration 79 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.12258064516129032
+precision: 0.8095238095238095
+recall: 0.8774193548387097
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.2033898305084746 (n=59)
+correct ces negative class: 0.5121951219512195 (n=41)
+
+labeled size: 269
+unlabeled size: 639
+
+#### caipi iteration 80 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.12258064516129032
+precision: 0.8095238095238095
+recall: 0.8774193548387097
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.23214285714285715 (n=56)
+correct ces negative class: 0.3409090909090909 (n=44)
+
+labeled size: 275
+unlabeled size: 638
+
+#### caipi iteration 81 ####
+
+Wrong (W)
+
+fp rate: 0.21052631578947367
+fn rate: 0.12258064516129032
+precision: 0.8095238095238095
+recall: 0.8774193548387097
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.3684210526315789 (n=57)
+correct ces negative class: 0.3488372093023256 (n=43)
+
+labeled size: 276
+unlabeled size: 637
+
+#### caipi iteration 82 ####
+
+Wrong (W)
+
+fp rate: 0.21710526315789475
+fn rate: 0.12258064516129032
+precision: 0.8047337278106509
+recall: 0.8774193548387097
+accuracy: 0.8306188925081434
+
+correct ces positive class: 0.27586206896551724 (n=58)
+correct ces negative class: 0.40476190476190477 (n=42)
+
+labeled size: 277
+unlabeled size: 636
+
+#### caipi iteration 83 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.22807017543859648 (n=57)
+correct ces negative class: 0.27906976744186046 (n=43)
+
+labeled size: 278
+unlabeled size: 635
+
+#### caipi iteration 84 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.2545454545454545 (n=55)
+correct ces negative class: 0.35555555555555557 (n=45)
+
+labeled size: 284
+unlabeled size: 634
+
+#### caipi iteration 85 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.2727272727272727 (n=55)
+correct ces negative class: 0.4444444444444444 (n=45)
+
+labeled size: 290
+unlabeled size: 633
+
+#### caipi iteration 86 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.34545454545454546 (n=55)
+correct ces negative class: 0.37777777777777777 (n=45)
+
+labeled size: 296
+unlabeled size: 632
+
+#### caipi iteration 87 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.23214285714285715 (n=56)
+correct ces negative class: 0.3409090909090909 (n=44)
+
+labeled size: 302
+unlabeled size: 631
+
+#### caipi iteration 88 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.21052631578947367 (n=57)
+correct ces negative class: 0.2558139534883721 (n=43)
+
+labeled size: 308
+unlabeled size: 630
+
+#### caipi iteration 89 ####
+
+Wrong (W)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.24561403508771928 (n=57)
+correct ces negative class: 0.06976744186046512 (n=43)
+
+labeled size: 309
+unlabeled size: 629
+
+#### caipi iteration 90 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.3508771929824561 (n=57)
+correct ces negative class: 0.16279069767441862 (n=43)
+
+labeled size: 315
+unlabeled size: 628
+
+#### caipi iteration 91 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.2982456140350877 (n=57)
+correct ces negative class: 0.13953488372093023 (n=43)
+
+labeled size: 321
+unlabeled size: 627
+
+#### caipi iteration 92 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.3333333333333333 (n=57)
+correct ces negative class: 0.20930232558139536 (n=43)
+
+labeled size: 322
+unlabeled size: 626
+
+#### caipi iteration 93 ####
+
+Wrong (W)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.2982456140350877 (n=57)
+correct ces negative class: 0.16279069767441862 (n=43)
+
+labeled size: 323
+unlabeled size: 625
+
+#### caipi iteration 94 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.27586206896551724 (n=58)
+correct ces negative class: 0.09523809523809523 (n=42)
+
+labeled size: 329
+unlabeled size: 624
+
+#### caipi iteration 95 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.22807017543859648 (n=57)
+correct ces negative class: 0.13953488372093023 (n=43)
+
+labeled size: 335
+unlabeled size: 623
+
+#### caipi iteration 96 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.2807017543859649 (n=57)
+correct ces negative class: 0.20930232558139536 (n=43)
+
+labeled size: 341
+unlabeled size: 622
+
+#### caipi iteration 97 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.2631578947368421 (n=57)
+correct ces negative class: 0.23255813953488372 (n=43)
+
+labeled size: 347
+unlabeled size: 621
+
+#### caipi iteration 98 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.2631578947368421 (n=57)
+correct ces negative class: 0.18604651162790697 (n=43)
+
+labeled size: 353
+unlabeled size: 620
+
+#### caipi iteration 99 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.2727272727272727 (n=55)
+correct ces negative class: 0.2 (n=45)
+
+labeled size: 359
+unlabeled size: 619
+
+#### caipi iteration 100 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21710526315789475
+fn rate: 0.11612903225806452
+precision: 0.8058823529411765
+recall: 0.8838709677419355
+accuracy: 0.8338762214983714
+
+correct ces positive class: 0.32727272727272727 (n=55)
+correct ces negative class: 0.1111111111111111 (n=45)
+
+labeled size: 365
+unlabeled size: 618
+
+#### end experimental iteration 4 ####
+
+#### start experimental iteration 5 ####
+
+#### caipi iteration 1 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.8270676691729323
+fn rate: 0.1724137931034483
+precision: 0.5669291338582677
+recall: 0.8275862068965517
+accuracy: 0.5439739413680782
+
+correct ces positive class: 0.022988505747126436 (n=87)
+correct ces negative class: 0.23076923076923078 (n=13)
+
+labeled size: 11
+unlabeled size: 717
+
+#### caipi iteration 2 ####
+
+Wrong (W)
+
+fp rate: 0.7142857142857143
+fn rate: 0.23563218390804597
+precision: 0.5833333333333334
+recall: 0.764367816091954
+accuracy: 0.5570032573289903
+
+correct ces positive class: 0.025974025974025976 (n=77)
+correct ces negative class: 0.30434782608695654 (n=23)
+
+labeled size: 12
+unlabeled size: 716
+
+#### caipi iteration 3 ####
+
+Wrong (W)
+
+fp rate: 0.8045112781954887
+fn rate: 0.11494252873563218
+precision: 0.5900383141762452
+recall: 0.8850574712643678
+accuracy: 0.5863192182410424
+
+correct ces positive class: 0.046511627906976744 (n=86)
+correct ces negative class: 0.21428571428571427 (n=14)
+
+labeled size: 13
+unlabeled size: 715
+
+#### caipi iteration 4 ####
+
+Wrong (W)
+
+fp rate: 0.8796992481203008
+fn rate: 0.06321839080459771
+precision: 0.5821428571428572
+recall: 0.9367816091954023
+accuracy: 0.5830618892508144
+
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+correct ces positive class: 0.11494252873563218 (n=87)
+correct ces negative class: 0.15384615384615385 (n=13)
+
+labeled size: 14
+unlabeled size: 714
+
+#### caipi iteration 5 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.9097744360902256
+fn rate: 0.04597701149425287
+precision: 0.578397212543554
+recall: 0.9540229885057471
+accuracy: 0.5798045602605864
+
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+No Counterfactuals found for the given configuration, perhaps try with different parameters... ; total time taken: 00 min 00 sec
+correct ces positive class: 0.07777777777777778 (n=90)
+correct ces negative class: 0.1 (n=10)
+
+labeled size: 20
+unlabeled size: 713
+
+#### caipi iteration 6 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.6842105263157895
+fn rate: 0.1206896551724138
+precision: 0.6270491803278688
+recall: 0.8793103448275862
+accuracy: 0.6351791530944625
+
+correct ces positive class: 0.12345679012345678 (n=81)
+correct ces negative class: 0.15789473684210525 (n=19)
+
+labeled size: 26
+unlabeled size: 712
+
+#### caipi iteration 7 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.39097744360902253
+fn rate: 0.2471264367816092
+precision: 0.7158469945355191
+recall: 0.7528735632183908
+accuracy: 0.6905537459283387
+
+correct ces positive class: 0.13333333333333333 (n=60)
+correct ces negative class: 0.175 (n=40)
+
+labeled size: 32
+unlabeled size: 711
+
+#### caipi iteration 8 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.43609022556390975
+fn rate: 0.25287356321839083
+precision: 0.6914893617021277
+recall: 0.7471264367816092
+accuracy: 0.6677524429967426
+
+correct ces positive class: 0.12307692307692308 (n=65)
+correct ces negative class: 0.14285714285714285 (n=35)
+
+labeled size: 33
+unlabeled size: 710
+
+#### caipi iteration 9 ####
+
+Wrong (W)
+
+fp rate: 0.41353383458646614
+fn rate: 0.21839080459770116
+precision: 0.7120418848167539
+recall: 0.7816091954022989
+accuracy: 0.6970684039087948
+
+correct ces positive class: 0.15873015873015872 (n=63)
+correct ces negative class: 0.02702702702702703 (n=37)
+
+labeled size: 34
+unlabeled size: 709
+
+#### caipi iteration 10 ####
+
+Wrong (W)
+
+fp rate: 0.44360902255639095
+fn rate: 0.20114942528735633
+precision: 0.702020202020202
+recall: 0.7988505747126436
+accuracy: 0.6938110749185668
+
+correct ces positive class: 0.2153846153846154 (n=65)
+correct ces negative class: 0.14285714285714285 (n=35)
+
+labeled size: 35
+unlabeled size: 708
+
+#### caipi iteration 11 ####
+
+Wrong (W)
+
+fp rate: 0.44360902255639095
+fn rate: 0.1724137931034483
+precision: 0.7093596059113301
+recall: 0.8275862068965517
+accuracy: 0.7100977198697068
+
+correct ces positive class: 0.26153846153846155 (n=65)
+correct ces negative class: 0.08571428571428572 (n=35)
+
+labeled size: 36
+unlabeled size: 707
+
+#### caipi iteration 12 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.42857142857142855
+fn rate: 0.1896551724137931
+precision: 0.7121212121212122
+recall: 0.8103448275862069
+accuracy: 0.7068403908794788
+
+correct ces positive class: 0.2222222222222222 (n=63)
+correct ces negative class: 0.10810810810810811 (n=37)
+
+labeled size: 42
+unlabeled size: 706
+
+#### caipi iteration 13 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.39097744360902253
+fn rate: 0.1839080459770115
+precision: 0.7319587628865979
+recall: 0.8160919540229885
+accuracy: 0.7263843648208469
+
+correct ces positive class: 0.22580645161290322 (n=62)
+correct ces negative class: 0.23684210526315788 (n=38)
+
+labeled size: 43
+unlabeled size: 705
+
+#### caipi iteration 14 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.40601503759398494
+fn rate: 0.1839080459770115
+precision: 0.7244897959183674
+recall: 0.8160919540229885
+accuracy: 0.7198697068403909
+
+correct ces positive class: 0.16666666666666666 (n=66)
+correct ces negative class: 0.23529411764705882 (n=34)
+
+labeled size: 44
+unlabeled size: 704
+
+#### caipi iteration 15 ####
+
+Wrong (W)
+
+fp rate: 0.2932330827067669
+fn rate: 0.22988505747126436
+precision: 0.7745664739884393
+recall: 0.7701149425287356
+accuracy: 0.742671009771987
+
+correct ces positive class: 0.15625 (n=64)
+correct ces negative class: 0.19444444444444445 (n=36)
+
+labeled size: 45
+unlabeled size: 703
+
+#### caipi iteration 16 ####
+
+Wrong (W)
+
+fp rate: 0.3233082706766917
+fn rate: 0.21839080459770116
+precision: 0.7597765363128491
+recall: 0.7816091954022989
+accuracy: 0.7361563517915309
+
+correct ces positive class: 0.2222222222222222 (n=63)
+correct ces negative class: 0.2702702702702703 (n=37)
+
+labeled size: 46
+unlabeled size: 702
+
+#### caipi iteration 17 ####
+
+Wrong (W)
+
+fp rate: 0.3308270676691729
+fn rate: 0.23563218390804597
+precision: 0.751412429378531
+recall: 0.764367816091954
+accuracy: 0.7231270358306189
+
+correct ces positive class: 0.2033898305084746 (n=59)
+correct ces negative class: 0.21951219512195122 (n=41)
+
+labeled size: 47
+unlabeled size: 701
+
+#### caipi iteration 18 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.3308270676691729
+fn rate: 0.19540229885057472
+precision: 0.7608695652173914
+recall: 0.8045977011494253
+accuracy: 0.745928338762215
+
+correct ces positive class: 0.19672131147540983 (n=61)
+correct ces negative class: 0.20512820512820512 (n=39)
+
+labeled size: 53
+unlabeled size: 700
+
+#### caipi iteration 19 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.3157894736842105
+fn rate: 0.19540229885057472
+precision: 0.7692307692307693
+recall: 0.8045977011494253
+accuracy: 0.752442996742671
+
+correct ces positive class: 0.14035087719298245 (n=57)
+correct ces negative class: 0.18604651162790697 (n=43)
+
+labeled size: 59
+unlabeled size: 699
+
+#### caipi iteration 20 ####
+
+Wrong (W)
+
+fp rate: 0.2556390977443609
+fn rate: 0.20689655172413793
+precision: 0.8023255813953488
+recall: 0.7931034482758621
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.11864406779661017 (n=59)
+correct ces negative class: 0.14634146341463414 (n=41)
+
+labeled size: 60
+unlabeled size: 698
+
+#### caipi iteration 21 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.2631578947368421
+fn rate: 0.22413793103448276
+precision: 0.7941176470588235
+recall: 0.7758620689655172
+accuracy: 0.758957654723127
+
+correct ces positive class: 0.2 (n=55)
+correct ces negative class: 0.17777777777777778 (n=45)
+
+labeled size: 66
+unlabeled size: 697
+
+#### caipi iteration 22 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23308270676691728
+fn rate: 0.21839080459770116
+precision: 0.8143712574850299
+recall: 0.7816091954022989
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.1111111111111111 (n=54)
+correct ces negative class: 0.08695652173913043 (n=46)
+
+labeled size: 72
+unlabeled size: 696
+
+#### caipi iteration 23 ####
+
+Wrong (W)
+
+fp rate: 0.20300751879699247
+fn rate: 0.2471264367816092
+precision: 0.8291139240506329
+recall: 0.7528735632183908
+accuracy: 0.7719869706840391
+
+correct ces positive class: 0.09433962264150944 (n=53)
+correct ces negative class: 0.44680851063829785 (n=47)
+
+labeled size: 73
+unlabeled size: 695
+
+#### caipi iteration 24 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.22413793103448276
+precision: 0.8181818181818182
+recall: 0.7758620689655172
+accuracy: 0.7752442996742671
+
+correct ces positive class: 0.07272727272727272 (n=55)
+correct ces negative class: 0.3333333333333333 (n=45)
+
+labeled size: 79
+unlabeled size: 694
+
+#### caipi iteration 25 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.15789473684210525
+fn rate: 0.29310344827586204
+precision: 0.8541666666666666
+recall: 0.7068965517241379
+accuracy: 0.7654723127035831
+
+correct ces positive class: 0.14893617021276595 (n=47)
+correct ces negative class: 0.37735849056603776 (n=53)
+
+labeled size: 80
+unlabeled size: 693
+
+#### caipi iteration 26 ####
+
+Wrong (W)
+
+fp rate: 0.15037593984962405
+fn rate: 0.3333333333333333
+precision: 0.8529411764705882
+recall: 0.6666666666666666
+accuracy: 0.745928338762215
+
+correct ces positive class: 0.11764705882352941 (n=51)
+correct ces negative class: 0.1836734693877551 (n=49)
+
+labeled size: 81
+unlabeled size: 692
+
+#### caipi iteration 27 ####
+
+Wrong (W)
+
+fp rate: 0.17293233082706766
+fn rate: 0.3045977011494253
+precision: 0.8402777777777778
+recall: 0.6954022988505747
+accuracy: 0.752442996742671
+
+correct ces positive class: 0.23214285714285715 (n=56)
+correct ces negative class: 0.25 (n=44)
+
+labeled size: 82
+unlabeled size: 691
+
+#### caipi iteration 28 ####
+
+Wrong (W)
+
+fp rate: 0.17293233082706766
+fn rate: 0.3045977011494253
+precision: 0.8402777777777778
+recall: 0.6954022988505747
+accuracy: 0.752442996742671
+
+correct ces positive class: 0.21666666666666667 (n=60)
+correct ces negative class: 0.225 (n=40)
+
+labeled size: 83
+unlabeled size: 690
+
+#### caipi iteration 29 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.15789473684210525
+fn rate: 0.29310344827586204
+precision: 0.8541666666666666
+recall: 0.7068965517241379
+accuracy: 0.7654723127035831
+
+correct ces positive class: 0.2 (n=50)
+correct ces negative class: 0.3 (n=50)
+
+labeled size: 89
+unlabeled size: 689
+
+#### caipi iteration 30 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.15789473684210525
+fn rate: 0.3218390804597701
+precision: 0.8489208633093526
+recall: 0.6781609195402298
+accuracy: 0.749185667752443
+
+correct ces positive class: 0.07407407407407407 (n=54)
+correct ces negative class: 0.15217391304347827 (n=46)
+
+labeled size: 90
+unlabeled size: 688
+
+#### caipi iteration 31 ####
+
+Wrong (W)
+
+fp rate: 0.14285714285714285
+fn rate: 0.3333333333333333
+precision: 0.8592592592592593
+recall: 0.6666666666666666
+accuracy: 0.749185667752443
+
+correct ces positive class: 0.16 (n=50)
+correct ces negative class: 0.2 (n=50)
+
+labeled size: 91
+unlabeled size: 687
+
+#### caipi iteration 32 ####
+
+Wrong (W)
+
+fp rate: 0.16541353383458646
+fn rate: 0.3448275862068966
+precision: 0.8382352941176471
+recall: 0.6551724137931034
+accuracy: 0.7328990228013029
+
+correct ces positive class: 0.1568627450980392 (n=51)
+correct ces negative class: 0.2857142857142857 (n=49)
+
+labeled size: 92
+unlabeled size: 686
+
+#### caipi iteration 33 ####
+
+Wrong (W)
+
+fp rate: 0.15037593984962405
+fn rate: 0.3160919540229885
+precision: 0.8561151079136691
+recall: 0.6839080459770115
+accuracy: 0.755700325732899
+
+correct ces positive class: 0.13043478260869565 (n=46)
+correct ces negative class: 0.2037037037037037 (n=54)
+
+labeled size: 93
+unlabeled size: 685
+
+#### caipi iteration 34 ####
+
+Wrong (W)
+
+fp rate: 0.15789473684210525
+fn rate: 0.3160919540229885
+precision: 0.85
+recall: 0.6839080459770115
+accuracy: 0.752442996742671
+
+correct ces positive class: 0.16981132075471697 (n=53)
+correct ces negative class: 0.2553191489361702 (n=47)
+
+labeled size: 94
+unlabeled size: 684
+
+#### caipi iteration 35 ####
+
+Wrong (W)
+
+fp rate: 0.16541353383458646
+fn rate: 0.3045977011494253
+precision: 0.8461538461538461
+recall: 0.6954022988505747
+accuracy: 0.755700325732899
+
+correct ces positive class: 0.24 (n=50)
+correct ces negative class: 0.2 (n=50)
+
+labeled size: 95
+unlabeled size: 683
+
+#### caipi iteration 36 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19548872180451127
+fn rate: 0.27011494252873564
+precision: 0.8300653594771242
+recall: 0.7298850574712644
+accuracy: 0.762214983713355
+
+correct ces positive class: 0.16666666666666666 (n=48)
+correct ces negative class: 0.17307692307692307 (n=52)
+
+labeled size: 101
+unlabeled size: 682
+
+#### caipi iteration 37 ####
+
+Wrong (W)
+
+fp rate: 0.18045112781954886
+fn rate: 0.3160919540229885
+precision: 0.8321678321678322
+recall: 0.6839080459770115
+accuracy: 0.742671009771987
+
+correct ces positive class: 0.22413793103448276 (n=58)
+correct ces negative class: 0.16666666666666666 (n=42)
+
+labeled size: 102
+unlabeled size: 681
+
+#### caipi iteration 38 ####
+
+Wrong (W)
+
+fp rate: 0.18796992481203006
+fn rate: 0.27586206896551724
+precision: 0.8344370860927153
+recall: 0.7241379310344828
+accuracy: 0.762214983713355
+
+correct ces positive class: 0.1346153846153846 (n=52)
+correct ces negative class: 0.2916666666666667 (n=48)
+
+labeled size: 103
+unlabeled size: 680
+
+#### caipi iteration 39 ####
+
+Wrong (W)
+
+fp rate: 0.21804511278195488
+fn rate: 0.3045977011494253
+precision: 0.8066666666666666
+recall: 0.6954022988505747
+accuracy: 0.7328990228013029
+
+correct ces positive class: 0.1746031746031746 (n=63)
+correct ces negative class: 0.24324324324324326 (n=37)
+
+labeled size: 104
+unlabeled size: 679
+
+#### caipi iteration 40 ####
+
+Wrong (W)
+
+fp rate: 0.19548872180451127
+fn rate: 0.3218390804597701
+precision: 0.8194444444444444
+recall: 0.6781609195402298
+accuracy: 0.7328990228013029
+
+correct ces positive class: 0.2127659574468085 (n=47)
+correct ces negative class: 0.32075471698113206 (n=53)
+
+labeled size: 105
+unlabeled size: 678
+
+#### caipi iteration 41 ####
+
+Wrong (W)
+
+fp rate: 0.18045112781954886
+fn rate: 0.3103448275862069
+precision: 0.8333333333333334
+recall: 0.6896551724137931
+accuracy: 0.745928338762215
+
+correct ces positive class: 0.16 (n=50)
+correct ces negative class: 0.22 (n=50)
+
+labeled size: 106
+unlabeled size: 677
+
+#### caipi iteration 42 ####
+
+Wrong (W)
+
+fp rate: 0.16541353383458646
+fn rate: 0.2988505747126437
+precision: 0.8472222222222222
+recall: 0.7011494252873564
+accuracy: 0.758957654723127
+
+correct ces positive class: 0.14814814814814814 (n=54)
+correct ces negative class: 0.2391304347826087 (n=46)
+
+labeled size: 107
+unlabeled size: 676
+
+#### caipi iteration 43 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.18045112781954886
+fn rate: 0.27011494252873564
+precision: 0.8410596026490066
+recall: 0.7298850574712644
+accuracy: 0.7687296416938111
+
+correct ces positive class: 0.23636363636363636 (n=55)
+correct ces negative class: 0.24444444444444444 (n=45)
+
+labeled size: 113
+unlabeled size: 675
+
+#### caipi iteration 44 ####
+
+Wrong (W)
+
+fp rate: 0.20300751879699247
+fn rate: 0.3160919540229885
+precision: 0.815068493150685
+recall: 0.6839080459770115
+accuracy: 0.7328990228013029
+
+correct ces positive class: 0.08 (n=50)
+correct ces negative class: 0.22 (n=50)
+
+labeled size: 114
+unlabeled size: 674
+
+#### caipi iteration 45 ####
+
+Wrong (W)
+
+fp rate: 0.19548872180451127
+fn rate: 0.29310344827586204
+precision: 0.825503355704698
+recall: 0.7068965517241379
+accuracy: 0.749185667752443
+
+correct ces positive class: 0.17391304347826086 (n=46)
+correct ces negative class: 0.2037037037037037 (n=54)
+
+labeled size: 115
+unlabeled size: 673
+
+#### caipi iteration 46 ####
+
+Wrong (W)
+
+fp rate: 0.21804511278195488
+fn rate: 0.28735632183908044
+precision: 0.8104575163398693
+recall: 0.7126436781609196
+accuracy: 0.742671009771987
+
+correct ces positive class: 0.21153846153846154 (n=52)
+correct ces negative class: 0.16666666666666666 (n=48)
+
+labeled size: 116
+unlabeled size: 672
+
+#### caipi iteration 47 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21804511278195488
+fn rate: 0.28160919540229884
+precision: 0.8116883116883117
+recall: 0.7183908045977011
+accuracy: 0.745928338762215
+
+correct ces positive class: 0.1509433962264151 (n=53)
+correct ces negative class: 0.19148936170212766 (n=47)
+
+labeled size: 122
+unlabeled size: 671
+
+#### caipi iteration 48 ####
+
+Wrong (W)
+
+fp rate: 0.23308270676691728
+fn rate: 0.25862068965517243
+precision: 0.80625
+recall: 0.7413793103448276
+accuracy: 0.752442996742671
+
+correct ces positive class: 0.16071428571428573 (n=56)
+correct ces negative class: 0.20454545454545456 (n=44)
+
+labeled size: 123
+unlabeled size: 670
+
+#### caipi iteration 49 ####
+
+Wrong (W)
+
+fp rate: 0.18796992481203006
+fn rate: 0.2413793103448276
+precision: 0.8407643312101911
+recall: 0.7586206896551724
+accuracy: 0.7817589576547231
+
+correct ces positive class: 0.15789473684210525 (n=57)
+correct ces negative class: 0.23255813953488372 (n=43)
+
+labeled size: 124
+unlabeled size: 669
+
+#### caipi iteration 50 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.21264367816091953
+precision: 0.8203592814371258
+recall: 0.7873563218390804
+accuracy: 0.7817589576547231
+
+correct ces positive class: 0.15 (n=60)
+correct ces negative class: 0.3 (n=40)
+
+labeled size: 125
+unlabeled size: 668
+
+#### caipi iteration 51 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.20114942528735633
+precision: 0.8224852071005917
+recall: 0.7988505747126436
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.14035087719298245 (n=57)
+correct ces negative class: 0.3023255813953488 (n=43)
+
+labeled size: 131
+unlabeled size: 667
+
+#### caipi iteration 52 ####
+
+Wrong (W)
+
+fp rate: 0.21052631578947367
+fn rate: 0.2471264367816092
+precision: 0.8238993710691824
+recall: 0.7528735632183908
+accuracy: 0.7687296416938111
+
+correct ces positive class: 0.2 (n=60)
+correct ces negative class: 0.325 (n=40)
+
+labeled size: 132
+unlabeled size: 666
+
+#### caipi iteration 53 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.18045112781954886
+fn rate: 0.23563218390804597
+precision: 0.8471337579617835
+recall: 0.764367816091954
+accuracy: 0.7882736156351792
+
+correct ces positive class: 0.16666666666666666 (n=54)
+correct ces negative class: 0.2391304347826087 (n=46)
+
+labeled size: 133
+unlabeled size: 665
+
+#### caipi iteration 54 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.18045112781954886
+fn rate: 0.22988505747126436
+precision: 0.8481012658227848
+recall: 0.7701149425287356
+accuracy: 0.7915309446254072
+
+correct ces positive class: 0.2711864406779661 (n=59)
+correct ces negative class: 0.34146341463414637 (n=41)
+
+labeled size: 139
+unlabeled size: 664
+
+#### caipi iteration 55 ####
+
+Wrong (W)
+
+fp rate: 0.17293233082706766
+fn rate: 0.21839080459770116
+precision: 0.8553459119496856
+recall: 0.7816091954022989
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.18333333333333332 (n=60)
+correct ces negative class: 0.275 (n=40)
+
+labeled size: 140
+unlabeled size: 663
+
+#### caipi iteration 56 ####
+
+Wrong (W)
+
+fp rate: 0.17293233082706766
+fn rate: 0.21264367816091953
+precision: 0.85625
+recall: 0.7873563218390804
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.23333333333333334 (n=60)
+correct ces negative class: 0.425 (n=40)
+
+labeled size: 141
+unlabeled size: 662
+
+#### caipi iteration 57 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.16541353383458646
+fn rate: 0.20114942528735633
+precision: 0.8633540372670807
+recall: 0.7988505747126436
+accuracy: 0.8143322475570033
+
+correct ces positive class: 0.16363636363636364 (n=55)
+correct ces negative class: 0.3111111111111111 (n=45)
+
+labeled size: 147
+unlabeled size: 661
+
+#### caipi iteration 58 ####
+
+Wrong (W)
+
+fp rate: 0.18796992481203006
+fn rate: 0.21839080459770116
+precision: 0.84472049689441
+recall: 0.7816091954022989
+accuracy: 0.7947882736156352
+
+correct ces positive class: 0.17543859649122806 (n=57)
+correct ces negative class: 0.27906976744186046 (n=43)
+
+labeled size: 148
+unlabeled size: 660
+
+#### caipi iteration 59 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.18796992481203006
+fn rate: 0.20689655172413793
+precision: 0.8466257668711656
+recall: 0.7931034482758621
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.12727272727272726 (n=55)
+correct ces negative class: 0.2222222222222222 (n=45)
+
+labeled size: 154
+unlabeled size: 659
+
+#### caipi iteration 60 ####
+
+Wrong (W)
+
+fp rate: 0.21804511278195488
+fn rate: 0.1839080459770115
+precision: 0.8304093567251462
+recall: 0.8160919540229885
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.2727272727272727 (n=66)
+correct ces negative class: 0.5 (n=34)
+
+labeled size: 155
+unlabeled size: 658
+
+#### caipi iteration 61 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.16666666666666666
+precision: 0.8285714285714286
+recall: 0.8333333333333334
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.1746031746031746 (n=63)
+correct ces negative class: 0.24324324324324326 (n=37)
+
+labeled size: 161
+unlabeled size: 657
+
+#### caipi iteration 62 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.23308270676691728
+fn rate: 0.16091954022988506
+precision: 0.8248587570621468
+recall: 0.8390804597701149
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.12962962962962962 (n=54)
+correct ces negative class: 0.21739130434782608 (n=46)
+
+labeled size: 167
+unlabeled size: 656
+
+#### caipi iteration 63 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21804511278195488
+fn rate: 0.1839080459770115
+precision: 0.8304093567251462
+recall: 0.8160919540229885
+accuracy: 0.8013029315960912
+
+correct ces positive class: 0.19642857142857142 (n=56)
+correct ces negative class: 0.20454545454545456 (n=44)
+
+labeled size: 173
+unlabeled size: 655
+
+#### caipi iteration 64 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.19548872180451127
+fn rate: 0.1724137931034483
+precision: 0.8470588235294118
+recall: 0.8275862068965517
+accuracy: 0.8175895765472313
+
+correct ces positive class: 0.3157894736842105 (n=57)
+correct ces negative class: 0.3023255813953488 (n=43)
+
+labeled size: 179
+unlabeled size: 654
+
+#### caipi iteration 65 ####
+
+Wrong (W)
+
+fp rate: 0.20300751879699247
+fn rate: 0.1781609195402299
+precision: 0.8411764705882353
+recall: 0.8218390804597702
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.125 (n=56)
+correct ces negative class: 0.3409090909090909 (n=44)
+
+labeled size: 180
+unlabeled size: 653
+
+#### caipi iteration 66 ####
+
+Wrong (W)
+
+fp rate: 0.18045112781954886
+fn rate: 0.1839080459770115
+precision: 0.8554216867469879
+recall: 0.8160919540229885
+accuracy: 0.8175895765472313
+
+correct ces positive class: 0.09523809523809523 (n=63)
+correct ces negative class: 0.4864864864864865 (n=37)
+
+labeled size: 181
+unlabeled size: 652
+
+#### caipi iteration 67 ####
+
+Wrong (W)
+
+fp rate: 0.18796992481203006
+fn rate: 0.1896551724137931
+precision: 0.8493975903614458
+recall: 0.8103448275862069
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.23333333333333334 (n=60)
+correct ces negative class: 0.25 (n=40)
+
+labeled size: 182
+unlabeled size: 651
+
+#### caipi iteration 68 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.17293233082706766
+fn rate: 0.1896551724137931
+precision: 0.8597560975609756
+recall: 0.8103448275862069
+accuracy: 0.8175895765472313
+
+correct ces positive class: 0.17857142857142858 (n=56)
+correct ces negative class: 0.22727272727272727 (n=44)
+
+labeled size: 188
+unlabeled size: 650
+
+#### caipi iteration 69 ####
+
+Wrong (W)
+
+fp rate: 0.20300751879699247
+fn rate: 0.1839080459770115
+precision: 0.8402366863905325
+recall: 0.8160919540229885
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.15517241379310345 (n=58)
+correct ces negative class: 0.21428571428571427 (n=42)
+
+labeled size: 189
+unlabeled size: 649
+
+#### caipi iteration 70 ####
+
+Wrong (W)
+
+fp rate: 0.20300751879699247
+fn rate: 0.1781609195402299
+precision: 0.8411764705882353
+recall: 0.8218390804597702
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.15254237288135594 (n=59)
+correct ces negative class: 0.2682926829268293 (n=41)
+
+labeled size: 190
+unlabeled size: 648
+
+#### caipi iteration 71 ####
+
+Wrong (W)
+
+fp rate: 0.20300751879699247
+fn rate: 0.1839080459770115
+precision: 0.8402366863905325
+recall: 0.8160919540229885
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.13793103448275862 (n=58)
+correct ces negative class: 0.38095238095238093 (n=42)
+
+labeled size: 191
+unlabeled size: 647
+
+#### caipi iteration 72 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.20300751879699247
+fn rate: 0.1839080459770115
+precision: 0.8402366863905325
+recall: 0.8160919540229885
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.15789473684210525 (n=57)
+correct ces negative class: 0.2558139534883721 (n=43)
+
+labeled size: 197
+unlabeled size: 646
+
+#### caipi iteration 73 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.20300751879699247
+fn rate: 0.1839080459770115
+precision: 0.8402366863905325
+recall: 0.8160919540229885
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.1864406779661017 (n=59)
+correct ces negative class: 0.21951219512195122 (n=41)
+
+labeled size: 203
+unlabeled size: 645
+
+#### caipi iteration 74 ####
+
+Wrong (W)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1724137931034483
+precision: 0.8372093023255814
+recall: 0.8275862068965517
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.125 (n=64)
+correct ces negative class: 0.2777777777777778 (n=36)
+
+labeled size: 204
+unlabeled size: 644
+
+#### caipi iteration 75 ####
+
+Wrong (W)
+
+fp rate: 0.22556390977443608
+fn rate: 0.1724137931034483
+precision: 0.8275862068965517
+recall: 0.8275862068965517
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.08620689655172414 (n=58)
+correct ces negative class: 0.19047619047619047 (n=42)
+
+labeled size: 205
+unlabeled size: 643
+
+#### caipi iteration 76 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.1724137931034483
+precision: 0.8275862068965517
+recall: 0.8275862068965517
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.11666666666666667 (n=60)
+correct ces negative class: 0.2 (n=40)
+
+labeled size: 211
+unlabeled size: 642
+
+#### caipi iteration 77 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21804511278195488
+fn rate: 0.1724137931034483
+precision: 0.8323699421965318
+recall: 0.8275862068965517
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.21311475409836064 (n=61)
+correct ces negative class: 0.1794871794871795 (n=39)
+
+labeled size: 217
+unlabeled size: 641
+
+#### caipi iteration 78 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.1724137931034483
+precision: 0.8275862068965517
+recall: 0.8275862068965517
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.23333333333333334 (n=60)
+correct ces negative class: 0.275 (n=40)
+
+labeled size: 223
+unlabeled size: 640
+
+#### caipi iteration 79 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.1724137931034483
+precision: 0.8275862068965517
+recall: 0.8275862068965517
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.1206896551724138 (n=58)
+correct ces negative class: 0.21428571428571427 (n=42)
+
+labeled size: 224
+unlabeled size: 639
+
+#### caipi iteration 80 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.1724137931034483
+precision: 0.8275862068965517
+recall: 0.8275862068965517
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.06896551724137931 (n=58)
+correct ces negative class: 0.21428571428571427 (n=42)
+
+labeled size: 225
+unlabeled size: 638
+
+#### caipi iteration 81 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.1724137931034483
+precision: 0.8275862068965517
+recall: 0.8275862068965517
+accuracy: 0.8045602605863192
+
+correct ces positive class: 0.15625 (n=64)
+correct ces negative class: 0.3333333333333333 (n=36)
+
+labeled size: 231
+unlabeled size: 637
+
+#### caipi iteration 82 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1724137931034483
+precision: 0.8372093023255814
+recall: 0.8275862068965517
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.1724137931034483 (n=58)
+correct ces negative class: 0.16666666666666666 (n=42)
+
+labeled size: 237
+unlabeled size: 636
+
+#### caipi iteration 83 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1781609195402299
+precision: 0.8362573099415205
+recall: 0.8218390804597702
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.10204081632653061 (n=49)
+correct ces negative class: 0.29411764705882354 (n=51)
+
+labeled size: 243
+unlabeled size: 635
+
+#### caipi iteration 84 ####
+
+Wrong (W)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1781609195402299
+precision: 0.8362573099415205
+recall: 0.8218390804597702
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.12962962962962962 (n=54)
+correct ces negative class: 0.2826086956521739 (n=46)
+
+labeled size: 244
+unlabeled size: 634
+
+#### caipi iteration 85 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1724137931034483
+precision: 0.8372093023255814
+recall: 0.8275862068965517
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.15517241379310345 (n=58)
+correct ces negative class: 0.2857142857142857 (n=42)
+
+labeled size: 250
+unlabeled size: 633
+
+#### caipi iteration 86 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1724137931034483
+precision: 0.8372093023255814
+recall: 0.8275862068965517
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.2037037037037037 (n=54)
+correct ces negative class: 0.3695652173913043 (n=46)
+
+labeled size: 256
+unlabeled size: 632
+
+#### caipi iteration 87 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1724137931034483
+precision: 0.8372093023255814
+recall: 0.8275862068965517
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.16666666666666666 (n=60)
+correct ces negative class: 0.275 (n=40)
+
+labeled size: 262
+unlabeled size: 631
+
+#### caipi iteration 88 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1724137931034483
+precision: 0.8372093023255814
+recall: 0.8275862068965517
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.11666666666666667 (n=60)
+correct ces negative class: 0.375 (n=40)
+
+labeled size: 268
+unlabeled size: 630
+
+#### caipi iteration 89 ####
+
+Wrong (W)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1724137931034483
+precision: 0.8372093023255814
+recall: 0.8275862068965517
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.09090909090909091 (n=55)
+correct ces negative class: 0.2222222222222222 (n=45)
+
+labeled size: 269
+unlabeled size: 629
+
+#### caipi iteration 90 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1724137931034483
+precision: 0.8372093023255814
+recall: 0.8275862068965517
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.18181818181818182 (n=55)
+correct ces negative class: 0.24444444444444444 (n=45)
+
+labeled size: 270
+unlabeled size: 628
+
+#### caipi iteration 91 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1724137931034483
+precision: 0.8372093023255814
+recall: 0.8275862068965517
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.20967741935483872 (n=62)
+correct ces negative class: 0.2894736842105263 (n=38)
+
+labeled size: 276
+unlabeled size: 627
+
+#### caipi iteration 92 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1724137931034483
+precision: 0.8372093023255814
+recall: 0.8275862068965517
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.13333333333333333 (n=60)
+correct ces negative class: 0.35 (n=40)
+
+labeled size: 282
+unlabeled size: 626
+
+#### caipi iteration 93 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21052631578947367
+fn rate: 0.1724137931034483
+precision: 0.8372093023255814
+recall: 0.8275862068965517
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.13793103448275862 (n=58)
+correct ces negative class: 0.2857142857142857 (n=42)
+
+labeled size: 288
+unlabeled size: 625
+
+#### caipi iteration 94 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.21804511278195488
+fn rate: 0.16666666666666666
+precision: 0.8333333333333334
+recall: 0.8333333333333334
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.23728813559322035 (n=59)
+correct ces negative class: 0.14634146341463414 (n=41)
+
+labeled size: 294
+unlabeled size: 624
+
+#### caipi iteration 95 ####
+
+Wrong (W)
+
+fp rate: 0.21804511278195488
+fn rate: 0.16666666666666666
+precision: 0.8333333333333334
+recall: 0.8333333333333334
+accuracy: 0.8110749185667753
+
+correct ces positive class: 0.14285714285714285 (n=56)
+correct ces negative class: 0.2727272727272727 (n=44)
+
+labeled size: 295
+unlabeled size: 623
+
+#### caipi iteration 96 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.16666666666666666
+precision: 0.8285714285714286
+recall: 0.8333333333333334
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.1111111111111111 (n=54)
+correct ces negative class: 0.3695652173913043 (n=46)
+
+labeled size: 301
+unlabeled size: 622
+
+#### caipi iteration 97 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.16666666666666666
+precision: 0.8285714285714286
+recall: 0.8333333333333334
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.16666666666666666 (n=54)
+correct ces negative class: 0.30434782608695654 (n=46)
+
+labeled size: 307
+unlabeled size: 621
+
+#### caipi iteration 98 ####
+
+Right for the Right Reasons (RRR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.16666666666666666
+precision: 0.8285714285714286
+recall: 0.8333333333333334
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.15384615384615385 (n=52)
+correct ces negative class: 0.3125 (n=48)
+
+labeled size: 308
+unlabeled size: 620
+
+#### caipi iteration 99 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.16666666666666666
+precision: 0.8285714285714286
+recall: 0.8333333333333334
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.16666666666666666 (n=54)
+correct ces negative class: 0.41304347826086957 (n=46)
+
+labeled size: 314
+unlabeled size: 619
+
+#### caipi iteration 100 ####
+
+Right for the Wrong Reasons (RWR)
+
+fp rate: 0.22556390977443608
+fn rate: 0.16666666666666666
+precision: 0.8285714285714286
+recall: 0.8333333333333334
+accuracy: 0.8078175895765473
+
+correct ces positive class: 0.22807017543859648 (n=57)
+correct ces negative class: 0.23255813953488372 (n=43)
+
+labeled size: 320
+unlabeled size: 618
+
+#### end experimental iteration 5 ####
+
