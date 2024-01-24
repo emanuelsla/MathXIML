@@ -1,8 +1,8 @@
 # Mathematical Dynamics of Explanatory Interactive Machine Learning
 
-Explanatory Interactive Machine Learning (XIML) lets machine learning
+Explanatory Interactive Machine Learning (XIML) lets machine learning (ML)
 and domain experts as well as end-users interact with the decision-making
-mechanism of machine learning (ML) models.
+mechanism of ML models.
 Model-agnostic XIML approaches induce the human knowledge
 via counterexamples. Some existing model-agnostic XIML procedures
 put forward that more counterexamples yield better results.
@@ -70,8 +70,8 @@ $ python3 -m scripts.tabbincaipi_experiments -h
 The ````data/```` directory contains all data sets as csv.
 Their pre-processors and label modifiers can be found in ```modules/preprocessors/```.
 The individual files are named accordingly.
-Te pre-preprocessors and label modifiers are evaluated in
-````notebooks/CheckPreprocessirsAndLabelers.ipynb````,
+The pre-preprocessors and label modifiers are evaluated in
+````notebooks/CheckPreprocessorsAndLabelers.ipynb````,
 where finally ````notebooks/Benchmark.ipynb```` conducts a benchmark test.
 
 ### Experiments and Results
