@@ -1,4 +1,4 @@
-# A Mathematical Investigation of the Effect of Counterexamples in XIML
+# A Mathematical Investigation of the Effects of Counterexamples in XIML
 
 Explanatory Interactive Machine Learning (XIML) lets machine learning (ML)
 and domain experts as well as end-users interact with the decision-making
@@ -11,7 +11,7 @@ The purpose of our paper is a formal inspection of this assumption.
 ---
 **Full reference:**
 
-Slany (2024): A Mathematical Investigation of the Effect of Counterexamples
+Slany (2024): A Mathematical Investigation of the Effects of Counterexamples
 in Explanatory Interactive Machine Learning.
 
 ---
