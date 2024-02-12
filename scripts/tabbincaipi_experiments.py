@@ -62,18 +62,23 @@ if __name__ == '__main__':
     from sklearn.ensemble import RandomForestClassifier
     from sklearn.cluster import KMeans
     from sklearn.metrics import confusion_matrix
+    from sklearn.metrics.pairwise import euclidean_distances
     from raiutils.exceptions import UserConfigValidationException
 
     parser = argparse.ArgumentParser('execute experiments for TabBinCAIPI paper')
 
     parser.add_argument('-i', '--iterations', default='5',
                         help='experimental iterations')
+    parser.add_argument('-ci', '--caipi_iterations', default='50',
+                        help='caipi iterations')
     parser.add_argument('-d', '--data', default='data/german_credit_data.csv',
                         help='data set')
     parser.add_argument('-o', '--output', default='results/test.csv',
                         help='output file')
     parser.add_argument('-c', '--counterexamples', default='5',
                         help='number of counterexamples')
+    parser.add_argument('-f', '--filtering', default='3.5',
+                        help='filter counterexamples by median euclidean')
 
     args_dict = vars(parser.parse_args())
 
@@ -82,11 +87,18 @@ if __name__ == '__main__':
         raise(FileExistsError('output file already exists.'))
 
     exp_iters = int(args_dict['iterations'])
+    caipi_iterations = int(args_dict['caipi_iterations'])
     seeds = [42] * exp_iters
     for i in range(exp_iters):
         seeds[i] = seeds[i] * 10**i
 
     c = int(args_dict['counterexamples'])
+
+    filtering = args_dict['filtering']
+    if filtering == 'None':
+        filtering = None
+    else:
+        filtering = float(filtering)
 
     df_path = str(args_dict['data'])
     if 'mushrooms' in df_path:
@@ -124,6 +136,7 @@ if __name__ == '__main__':
 
     print('### settings ####')
     print('experimental iterations: ' + str(exp_iters))
+    print('caipi iterations: ' + str(caipi_iterations))
     print('random seeds: ' + str(seeds))
     print('data set: ' + str(df_name))
     print('')
@@ -153,6 +166,7 @@ if __name__ == '__main__':
         df_unlabeled, df_test, label_transformers, metric_transformers = preprocessor(df_path, test_ratio=0.3,
                                                                                       custom_mechanism=True,
                                                                                       seed=seeds[i])
+
         # initialize labeled data randomly
         df_labeled = generate_random_df(df_unlabeled, size=10, seed=seeds[i])
 
@@ -162,7 +176,7 @@ if __name__ == '__main__':
         kmeans.fit(df_unlabeled.drop(target, axis=1))
 
         # start caipi optimization
-        for j in range(100):
+        for j in range(caipi_iterations):
 
             print('#### caipi iteration ' + str(j + 1) + ' ####')
             print()
@@ -192,8 +206,9 @@ if __name__ == '__main__':
                     ce = apply_dice(classifier, mii.drop(target, axis=1), df_unlabeled,
                                     list(mii.drop(target, axis=1).columns), target, number_cfs=1, seed=seeds[i])
                     corr_ce = evaluate_counterfactual(ce, mii, labeler, decisive_columns)
-                except (TimeoutError, UserConfigValidationException):
-                    # print('No counterfactual found, explanation is false')
+                except (TimeoutError, UserConfigValidationException, KeyError):
+                    print('No counterfactual found, continue with next instance')
+                    print()
                     corr_ce = False
 
                 if corr_ce:
@@ -211,6 +226,14 @@ if __name__ == '__main__':
                     output_states.append('RWR')
 
                     if c > 0:
+                        # calculate median euclidean
+                        df_unlabeled_sample = df_unlabeled.sample(100, random_state=seeds[i])
+                        euclidean = euclidean_distances(mii.drop(target, axis=1), df_unlabeled_sample.drop(target, axis=1))
+                        median_euclidean = np.median(euclidean)
+
+                        print('median euclidean', median_euclidean)
+                        print()
+
                         # generate counterexamples
                         cluster_pred = kmeans.predict(df_unlabeled.drop(target, axis=1))
                         cluster_pred_mii = kmeans.predict(mii.drop(target, axis=1))
@@ -223,8 +246,17 @@ if __name__ == '__main__':
                         df_no_dec = generate_random_df(df_unlabeled.drop(decisive_columns + [target], axis=1), c)
                         df_counterexample = pd.concat([df_no_dec, df_dec], axis=1)
 
-                        df_labeled = pd.concat([df_labeled, mii, df_counterexample])
-                        df_unlabeled = df_unlabeled.drop(mii_index, axis=0)
+                        if filtering:
+                            if median_euclidean <= filtering:
+                                df_labeled = pd.concat([df_labeled, mii, df_counterexample])
+                                df_unlabeled = df_unlabeled.drop(mii_index, axis=0)
+                            else:
+                                df_labeled = pd.concat([df_labeled, mii])
+                                df_unlabeled = df_unlabeled.drop(mii_index, axis=0)
+
+                        else:
+                            df_labeled = pd.concat([df_labeled, mii, df_counterexample])
+                            df_unlabeled = df_unlabeled.drop(mii_index, axis=0)
 
                     else:
                         df_labeled = pd.concat([df_labeled, mii])
@@ -277,8 +309,9 @@ if __name__ == '__main__':
                     ce = apply_dice(classifier, df_eval_ces.iloc[[n]].drop([target, 'preds'], axis=1), df_unlabeled,
                                     list(df_eval_ces.drop([target, 'preds'], axis=1).columns), target,
                                     number_cfs=1, seed=seeds[i])
-                except (TimeoutError, UserConfigValidationException):
-                    # print('No counterfactual found, continue with next instance')
+                except (TimeoutError, UserConfigValidationException, KeyError):
+                    print('No counterfactual found, continue with next instance')
+                    print()
                     continue
 
                 # evaluate counterfactual explanation
@@ -299,8 +332,10 @@ if __name__ == '__main__':
             except ZeroDivisionError:
                 corr_ces_neg = 0
 
-            print('correct ces positive class:', corr_ces_pos, '(n='+str(len(df_eval_ces[df_eval_ces[target] == 1]))+str(')'))
-            print('correct ces negative class:', corr_ces_neg, '(n='+str(len(df_eval_ces[df_eval_ces[target] == 0]))+str(')'))
+            print('correct ces positive class:', corr_ces_pos,
+                  '(n='+str(len(df_eval_ces[df_eval_ces[target] == 1]))+str(')'))
+            print('correct ces negative class:', corr_ces_neg,
+                  '(n='+str(len(df_eval_ces[df_eval_ces[target] == 0]))+str(')'))
             print()
             print('labeled size:', len(df_labeled))
             print('unlabeled size:', len(df_unlabeled))
