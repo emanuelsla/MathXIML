@@ -43,12 +43,12 @@ def gauge_chart(val=1):
 
 if __name__ == '__main__':
 
-    data_path = '/Users/slanyel/PycharmProjects/binary-tabular-caipi/data/german_credit_data.csv'
+    data_path = 'binary-tabular-caipi/data/german_credit_data.csv'
     df_train, df_test, _, metric_transformers = preprocess_german_credit_data(data_path, test_ratio=0.3, seed=42)
 
     df_plot = df_train.copy()
 
-    model_path = '/Users/slanyel/PycharmProjects/binary-tabular-caipi/models/20231009085100_svc.joblib'
+    model_path = 'binary-tabular-caipi/models/20231009085100_svc.joblib'
     svc = joblib.load(model_path)
 
     for col, transformer in metric_transformers.items():
