@@ -1,4 +1,4 @@
-# A Mathematical Investigation of the Effects of Counterexamples in XIML
+# Are More Counterexamples Better? 
 
 Explanatory Interactive Machine Learning (XIML) lets machine learning (ML)
 and domain experts as well as end-users interact with the decision-making
