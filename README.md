@@ -11,7 +11,8 @@ The purpose of our paper is a formal inspection of this assumption.
 ---
 **Full reference:**
 
-Slany (2024): A Mathematical Investigation of the Effects of Counterexamples
+Slany (2024): Are More Counterexamples Better?
+Counterexamples and their Effects
 in Explanatory Interactive Machine Learning.
 
 ---
