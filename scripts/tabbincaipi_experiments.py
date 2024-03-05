@@ -9,7 +9,6 @@ from modules.preprocessors.preprocess_german_credit_data import preprocess_germa
 from modules.preprocessors.preprocess_adult_data import preprocess_adult_data, adult_label_modifier
 from modules.preprocessors.preprocess_heart_data import preprocess_heart_data, heart_label_modifier
 from modules.preprocessors.preprocess_diabetes_data import preprocess_diabetes_data, diabetes_label_modifier
-from modules.preprocessors.preprocess_mushrooms_data import preprocess_mushrooms_data, mushrooms_label_modifier
 
 
 def evaluate_counterfactual(ce: pd.DataFrame, reference: pd.DataFrame, labeler, decisive_columns,
@@ -101,13 +100,7 @@ if __name__ == '__main__':
         filtering = float(filtering)
 
     df_path = str(args_dict['data'])
-    if 'mushrooms' in df_path:
-        df_name = 'mushrooms'
-        target = 'target'
-        preprocessor = preprocess_mushrooms_data
-        labeler = mushrooms_label_modifier
-        decisive_columns = ['odor', 'gillcolor']
-    elif 'adult' in df_path:
+    if 'adult' in df_path:
         df_name = 'adult'
         target = 'income'
         preprocessor = preprocess_adult_data
