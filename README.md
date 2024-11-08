@@ -6,10 +6,9 @@ mechanism of ML models.
 Model-agnostic XIML approaches induce the human knowledge
 via counterexamples. Some existing model-agnostic XIML procedures
 put forward that more counterexamples yield better results.
-The purpose of our paper is a formal inspection of this assumption.
 
 ---
-**Full reference:**
+**Full reference:** (to be updated upon publication)
 
 Slany (2024): Are More Counterexamples Better?
 Counterexamples and their Effects
