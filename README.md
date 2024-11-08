@@ -86,5 +86,5 @@ in ````notebooks/EvaluateExperiments.ipynb````.
 ### User Interface
 
 The supplementary user interface is implemented in
-``modules/ùi/Mockup_StreamlitCaipiUI_GermanCreditRisk.py``.
+``modules/ui/Mockup_StreamlitCaipiUI_GermanCreditRisk.py``.
 It involves end-users into the optimization process.
